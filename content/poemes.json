@@ -1,0 +1,6339 @@
+[
+  {
+    "id": "leve-toi",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-orage",
+    "titre": "L’orage",
+    "fichier": "textes/l-orage.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-fb-003",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-fb-003.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "lecons-de-vie",
+    "titre": "Leçons de vie",
+    "fichier": "textes/lecons-de-vie.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-fb-005",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-fb-005.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-fb-006",
+    "titre": "LÈVE-TOI !",
+    "fichier": "textes/leve-toi-fb-006.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-fb-007",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-fb-007.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/leve-toi-fb-007.jpg",
+    "descriptionImage": "Illustration accompagnant « Lève-toi ! » dans sa publication Facebook.",
+    "date": "2026-09-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-fb-008",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-fb-008.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-fb-010",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-fb-010.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "amulli-ameggaz-stheghzi-n-tuderthim-a-tes-ans-a-kenza-yelli",
+    "titre": "Amulli Ameggaz stheghzi n’tuderthim à tes 💯 ans a Kenza yelli",
+    "fichier": "textes/amulli-ameggaz-stheghzi-n-tuderthim-a-tes-ans-a-kenza-yelli.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-08-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "delires-insomniaques",
+    "titre": "Délires insomniaques",
+    "fichier": "textes/delires-insomniaques.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "un-gout-d-exil-dans-la-bouche",
+    "titre": "Un goût d'exil dans la bouche",
+    "fichier": "textes/un-gout-d-exil-dans-la-bouche.txt",
+    "themes": [
+      "Exil et solidarité"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-heures-de-l-ame",
+    "titre": "Les heures de l’âme",
+    "fichier": "textes/les-heures-de-l-ame.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-vent-des-ames-blessees",
+    "titre": "Le vent des âmes blessées",
+    "fichier": "textes/le-vent-des-ames-blessees.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-chant-des-silences",
+    "titre": "Le chant des silences",
+    "fichier": "textes/le-chant-des-silences.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "aux-anges-de-l-orphelinat",
+    "titre": "Aux anges de l'orphelinat",
+    "fichier": "textes/aux-anges-de-l-orphelinat.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Maatkas",
+    "creditImage": ""
+  },
+  {
+    "id": "les-mots-de-tete",
+    "titre": "Les mots de tête",
+    "fichier": "textes/les-mots-de-tete.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Maatkas",
+    "creditImage": ""
+  },
+  {
+    "id": "c-est-tout-moi-ca",
+    "titre": "C'est tout moi, ça !",
+    "fichier": "textes/c-est-tout-moi-ca.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/c-est-tout-moi-ca.jpg",
+    "descriptionImage": "Illustration accompagnant « C'est tout moi, ça ! » dans sa publication Facebook.",
+    "date": "2026-07-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "vers-luisant-solitaire",
+    "titre": "Vers luisant solitaire",
+    "fichier": "textes/vers-luisant-solitaire.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "solitude-ma-compagne",
+    "titre": "Solitude, ma compagne",
+    "fichier": "textes/solitude-ma-compagne.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Tissirt Mena3",
+    "creditImage": ""
+  },
+  {
+    "id": "pelerin-de-comptoir",
+    "titre": "Pèlerin de comptoir",
+    "fichier": "textes/pelerin-de-comptoir.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "St Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "j-arrose-les-lauriers-roses",
+    "titre": "J'arrose les lauriers roses",
+    "fichier": "textes/j-arrose-les-lauriers-roses.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/facebook/j-arrose-les-lauriers-roses.jpg",
+    "descriptionImage": "Illustration accompagnant « J'arrose les lauriers roses » dans sa publication Facebook.",
+    "date": "2026-07-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Tissirt Mena3",
+    "creditImage": ""
+  },
+  {
+    "id": "hors-ligne",
+    "titre": "Hors ligne",
+    "fichier": "textes/hors-ligne.txt",
+    "themes": [
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-07-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "garde-mes-silences",
+    "titre": "Garde mes silences",
+    "fichier": "textes/garde-mes-silences.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-06-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-chant-confisque",
+    "titre": "Le chant confisqué",
+    "fichier": "textes/le-chant-confisque.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-06-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "bug-existentiel",
+    "titre": "bug existentiel",
+    "fichier": "textes/bug-existentiel.txt",
+    "themes": [
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-06-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Tissirt Mena3",
+    "creditImage": ""
+  },
+  {
+    "id": "mauvaise-connexion",
+    "titre": "Mauvaise connexion",
+    "fichier": "textes/mauvaise-connexion.txt",
+    "themes": [
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-06-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "je-te-po-aime-toujours-encore-et-encore",
+    "titre": "Je te po-aime toujours, encore et encore",
+    "fichier": "textes/je-te-po-aime-toujours-encore-et-encore.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-06-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-voyageuse-invisible",
+    "titre": "La voyageuse invisible",
+    "fichier": "textes/la-voyageuse-invisible.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-06-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-delires-de-la-fee-verte",
+    "titre": "Les délires de la fée verte",
+    "fichier": "textes/les-delires-de-la-fee-verte.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-06-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-desert-est-grand-le-monde-est-petit-et-la-vie-est-belle",
+    "titre": "Le désert est grand, le monde est petit et la vie est belle",
+    "fichier": "textes/le-desert-est-grand-le-monde-est-petit-et-la-vie-est-belle.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Paris CDG",
+    "creditImage": ""
+  },
+  {
+    "id": "l-eveil-du-matin",
+    "titre": "L'éveil du matin",
+    "fichier": "textes/l-eveil-du-matin.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-03-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ouled Fayet",
+    "creditImage": ""
+  },
+  {
+    "id": "le-royaume-de-la-nuit",
+    "titre": "Le royaume de la nuit",
+    "fichier": "textes/le-royaume-de-la-nuit.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-insoumis-et-la-terre",
+    "titre": "L’insoumis et la terre",
+    "fichier": "textes/l-insoumis-et-la-terre.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "je-suis-vivant",
+    "titre": "Je suis vivant",
+    "fichier": "textes/je-suis-vivant.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "poete-embusque",
+    "titre": "Poète embusqué",
+    "fichier": "textes/poete-embusque.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Paris",
+    "creditImage": ""
+  },
+  {
+    "id": "rester-au-bord-du-feu",
+    "titre": "Rester au bord du feu",
+    "fichier": "textes/rester-au-bord-du-feu.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "nuit-blanche",
+    "titre": "NUIT BLANCHE",
+    "fichier": "textes/nuit-blanche.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "ce-que-l-amour-revele",
+    "titre": "Ce que l’amour révèle",
+    "fichier": "textes/ce-que-l-amour-revele.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "le-cycle-fragile-des-hommes",
+    "titre": "Le cycle fragile des hommes",
+    "fichier": "textes/le-cycle-fragile-des-hommes.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Valentigney",
+    "creditImage": ""
+  },
+  {
+    "id": "les-murmures-de-la-nuit",
+    "titre": "Les murmures de la nuit",
+    "fichier": "textes/les-murmures-de-la-nuit.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Valentigney",
+    "creditImage": ""
+  },
+  {
+    "id": "le-campagnard-et-le-citadin",
+    "titre": "Le campagnard et le citadin",
+    "fichier": "textes/le-campagnard-et-le-citadin.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Valentigney",
+    "creditImage": ""
+  },
+  {
+    "id": "le-lac-paisible",
+    "titre": "Le lac paisible",
+    "fichier": "textes/le-lac-paisible.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/le-lac-paisible.jpg",
+    "descriptionImage": "Illustration accompagnant « Le lac paisible » dans sa publication Facebook.",
+    "date": "2026-04-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Bians Les Usiers",
+    "creditImage": ""
+  },
+  {
+    "id": "le-tgv",
+    "titre": "Le TGV",
+    "fichier": "textes/le-tgv.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "joyeux-anniversaire-vava",
+    "titre": "Joyeux anniversaire Vava",
+    "fichier": "textes/joyeux-anniversaire-vava.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/joyeux-anniversaire-vava.jpg",
+    "descriptionImage": "Illustration accompagnant « Joyeux anniversaire Vava » dans sa publication Facebook.",
+    "date": "2026-05-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-dernier-ete-de-la-raison",
+    "titre": "Le dernier été de la raison",
+    "fichier": "textes/le-dernier-ete-de-la-raison.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/facebook/le-dernier-ete-de-la-raison.jpg",
+    "descriptionImage": "Illustration accompagnant « Le dernier été de la raison » dans sa publication Facebook.",
+    "date": "2024-05-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "bonjour-la-vie",
+    "titre": "Bonjour la vie",
+    "fichier": "textes/bonjour-la-vie.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "la-source-bleue",
+    "titre": "La source bleue",
+    "fichier": "textes/la-source-bleue.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/la-source-bleue.jpg",
+    "descriptionImage": "Illustration accompagnant « La source bleue » dans sa publication Facebook.",
+    "date": "2026-04-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Bians Les Usiers",
+    "creditImage": "Crédit photo © 2026 Elisabeth Contejean"
+  },
+  {
+    "id": "le-silence-ou-tu-demeures",
+    "titre": "Le silence où tu demeures",
+    "fichier": "textes/le-silence-ou-tu-demeures.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "au-bord-de-ce-qui-fut-aime",
+    "titre": "Au bord de ce qui fut aimé",
+    "fichier": "textes/au-bord-de-ce-qui-fut-aime.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Bians Les Usiers",
+    "creditImage": ""
+  },
+  {
+    "id": "un-temps-mots-sade",
+    "titre": "Un temps mots Sade",
+    "fichier": "textes/un-temps-mots-sade.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Paris",
+    "creditImage": ""
+  },
+  {
+    "id": "le-proces-de-mes-nuits-blanches",
+    "titre": "Le procès de mes nuits blanches",
+    "fichier": "textes/le-proces-de-mes-nuits-blanches.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ecublens",
+    "creditImage": ""
+  },
+  {
+    "id": "une-nuit-de-plus",
+    "titre": "Une nuit de plus",
+    "fichier": "textes/une-nuit-de-plus.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ecublens",
+    "creditImage": ""
+  },
+  {
+    "id": "avec-la-mere-va-tout-s-en-va",
+    "titre": "Avec la mère, va, tout s’en va",
+    "fichier": "textes/avec-la-mere-va-tout-s-en-va.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/facebook/avec-la-mere-va-tout-s-en-va.jpg",
+    "descriptionImage": "Illustration accompagnant « Avec la mère, va, tout s’en va » dans sa publication Facebook.",
+    "date": "2026-05-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ecublens",
+    "creditImage": ""
+  },
+  {
+    "id": "traite-des-vents-contraires",
+    "titre": "Traité des vents contraires",
+    "fichier": "textes/traite-des-vents-contraires.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "TGV Lyria : Lausanne - Paris,",
+    "creditImage": ""
+  },
+  {
+    "id": "une-syllabe-posee-sur-l-infini",
+    "titre": "Une syllabe posée sur l’infini",
+    "fichier": "textes/une-syllabe-posee-sur-l-infini.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "la-maison-des-rires",
+    "titre": "La maison des rires",
+    "fichier": "textes/la-maison-des-rires.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "bonjour-poete",
+    "titre": "Bonjour poète",
+    "fichier": "textes/bonjour-poete.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "le-souffle-du-reve",
+    "titre": "Le souffle du rêve",
+    "fichier": "textes/le-souffle-du-reve.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Saint Ouen sur Seine",
+    "creditImage": ""
+  },
+  {
+    "id": "les-voix-qui-ouvrent-les-murs",
+    "titre": "Les voix qui ouvrent les murs",
+    "fichier": "textes/les-voix-qui-ouvrent-les-murs.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "veilleur-des-ombres",
+    "titre": "Veilleur des ombres",
+    "fichier": "textes/veilleur-des-ombres.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "quelques-instants-parmi-les-galaxie",
+    "titre": "Quelques instants parmi les galaxie",
+    "fichier": "textes/quelques-instants-parmi-les-galaxie.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-tonnerre-a-frappe",
+    "titre": "Le tonnerre a frappé",
+    "fichier": "textes/le-tonnerre-a-frappe.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-une-chambre-sans-richesse",
+    "titre": "Dans une chambre sans richesse,",
+    "fichier": "textes/dans-une-chambre-sans-richesse.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-miroir-de-l-ame",
+    "titre": "Le miroir de l’âme",
+    "fichier": "textes/le-miroir-de-l-ame.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-05-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "fragments-de-resistance",
+    "titre": "Fragments de résistance",
+    "fichier": "textes/fragments-de-resistance.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-poete-maudit",
+    "titre": "Le poète maudît",
+    "fichier": "textes/le-poete-maudit.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ath Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-murmures-de-tawrirt",
+    "titre": "Les murmures de Tawrirt",
+    "fichier": "textes/les-murmures-de-tawrirt.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/les-murmures-de-tawrirt.jpg",
+    "descriptionImage": "Illustration accompagnant « Les murmures de Tawrirt » dans sa publication Facebook.",
+    "date": "2026-04-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "El Menia",
+    "creditImage": ""
+  },
+  {
+    "id": "une-langue-libre",
+    "titre": "Une langue libre",
+    "fichier": "textes/une-langue-libre.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "El Menia",
+    "creditImage": ""
+  },
+  {
+    "id": "les-yeux-du-desert",
+    "titre": "Les yeux du désert",
+    "fichier": "textes/les-yeux-du-desert.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/les-yeux-du-desert.jpg",
+    "descriptionImage": "Illustration accompagnant « Les yeux du désert » dans sa publication Facebook.",
+    "date": "2026-04-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "El Menia",
+    "creditImage": ""
+  },
+  {
+    "id": "regarder-autrement",
+    "titre": "Regarder autrement",
+    "fichier": "textes/regarder-autrement.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "chante-le-printemps-tes-couleurs",
+    "titre": "Chante le printemps tes couleurs,",
+    "fichier": "textes/chante-le-printemps-tes-couleurs.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/chante-le-printemps-tes-couleurs.jpg",
+    "descriptionImage": "Illustration accompagnant « Chante le printemps tes couleurs, » dans sa publication Facebook.",
+    "date": "2026-04-07",
+    "publie": true,
+    "auteur": "Nadjoua Bensalem",
+    "lieu": "",
+    "creditImage": ""
+  },
+  {
+    "id": "saxifrage",
+    "titre": "Saxifrage",
+    "fichier": "textes/saxifrage.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/saxifrage.jpg",
+    "descriptionImage": "Illustration accompagnant « Saxifrage » dans sa publication Facebook.",
+    "date": "2026-03-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "je-suis-devenu-flamme",
+    "titre": "Je suis devenu flamme",
+    "fichier": "textes/je-suis-devenu-flamme.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/je-suis-devenu-flamme.jpg",
+    "descriptionImage": "Illustration accompagnant « Je suis devenu flamme » dans sa publication Facebook.",
+    "date": "2026-04-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "vertiges",
+    "titre": "''Vertiges ..''",
+    "fichier": "textes/vertiges.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/vertiges.jpg",
+    "descriptionImage": "Illustration accompagnant « ''Vertiges ..'' » dans sa publication Facebook.",
+    "date": "2025-11-09",
+    "publie": true,
+    "auteur": "Nadya Benamar et Djamel Metref",
+    "lieu": "",
+    "creditImage": ""
+  },
+  {
+    "id": "c-ur-plein",
+    "titre": "Cœur plein",
+    "fichier": "textes/c-ur-plein.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-amour-ce-sdf",
+    "titre": "L’amour ce SDF",
+    "fichier": "textes/l-amour-ce-sdf.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "murmures-poetiques",
+    "titre": "Murmures poétiques",
+    "fichier": "textes/murmures-poetiques.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-assoiffes",
+    "titre": "Les assoiffés",
+    "fichier": "textes/les-assoiffes.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/les-assoiffes.jpg",
+    "descriptionImage": "Illustration accompagnant « Les assoiffés » dans sa publication Facebook.",
+    "date": "2026-03-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ait Smail",
+    "creditImage": ""
+  },
+  {
+    "id": "les-artistes",
+    "titre": "Les artistes",
+    "fichier": "textes/les-artistes.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/les-artistes.jpg",
+    "descriptionImage": "Illustration accompagnant « Les artistes » dans sa publication Facebook.",
+    "date": "2026-03-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ait Smail",
+    "creditImage": ""
+  },
+  {
+    "id": "homme-de-parole-et-non-de-paroles",
+    "titre": "Homme de parole et non de paroles",
+    "fichier": "textes/homme-de-parole-et-non-de-paroles.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Béjaïa",
+    "creditImage": ""
+  },
+  {
+    "id": "l-amour-parlons-en",
+    "titre": "L’amour, parlons-en !",
+    "fichier": "textes/l-amour-parlons-en.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-bergere-de-la-vallee",
+    "titre": "''La bergère de la vallée ''",
+    "fichier": "textes/la-bergere-de-la-vallee.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/facebook/la-bergere-de-la-vallee.jpg",
+    "descriptionImage": "Illustration accompagnant « ''La bergère de la vallée '' » dans sa publication Facebook.",
+    "date": "2026-03-13",
+    "publie": true,
+    "auteur": "Nadya Benamar, Djamel Metref et Amar Tamelikecht",
+    "lieu": "",
+    "creditImage": ""
+  },
+  {
+    "id": "la-route-de-l-homme",
+    "titre": "La route de l'homme",
+    "fichier": "textes/la-route-de-l-homme.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "comment-tenir-face-a-cette-nuit",
+    "titre": "Comment tenir face à cette nuit",
+    "fichier": "textes/comment-tenir-face-a-cette-nuit.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "promenade-des-droits-de-l-homme",
+    "titre": "Promenade des droits de l'homme",
+    "fichier": "textes/promenade-des-droits-de-l-homme.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Liberté et justice"
+    ],
+    "image": "assets/poemes/facebook/promenade-des-droits-de-l-homme.jpg",
+    "descriptionImage": "Illustration accompagnant « Promenade des droits de l'homme » dans sa publication Facebook.",
+    "date": "2024-03-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Valentigney",
+    "creditImage": ""
+  },
+  {
+    "id": "hommage-a-vous-tous-qui-avez-peri-en-mer-pour-une-meilleure-vie-un-meilleur-monde",
+    "titre": "Hommage à vous tous qui avez péri en mer pour une meilleure vie , un meilleur monde",
+    "fichier": "textes/hommage-a-vous-tous-qui-avez-peri-en-mer-pour-une-meilleure-vie-un-meilleur-monde.txt",
+    "themes": [
+      "Exil et solidarité"
+    ],
+    "image": "assets/poemes/facebook/hommage-a-vous-tous-qui-avez-peri-en-mer-pour-une-meilleure-vie-un-meilleur-monde.jpg",
+    "descriptionImage": "Illustration accompagnant « Hommage à vous tous qui avez péri en mer pour une meilleure vie , un meilleur monde » dans sa publication Facebook.",
+    "date": "2021-10-01",
+    "publie": true,
+    "auteur": "Nadjoua Bensalem",
+    "lieu": "",
+    "creditImage": ""
+  },
+  {
+    "id": "limerence",
+    "titre": "Limerence",
+    "fichier": "textes/limerence.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Valentigney",
+    "creditImage": ""
+  },
+  {
+    "id": "la-toile-des-mots",
+    "titre": "La toile des mots",
+    "fichier": "textes/la-toile-des-mots.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Valentigney",
+    "creditImage": ""
+  },
+  {
+    "id": "la-nuit",
+    "titre": "La nuit…",
+    "fichier": "textes/la-nuit.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ecublens",
+    "creditImage": ""
+  },
+  {
+    "id": "la-citadelle",
+    "titre": "La citadelle",
+    "fichier": "textes/la-citadelle.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/la-citadelle.jpg",
+    "descriptionImage": "Illustration accompagnant « La citadelle » dans sa publication Facebook.",
+    "date": "2026-03-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Valentigney",
+    "creditImage": "Panneau dans l’enceinte de la citadelle de Besançon — légende du post"
+  },
+  {
+    "id": "l-arbre-hurleur",
+    "titre": "L'arbre hurleur",
+    "fichier": "textes/l-arbre-hurleur.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/l-arbre-hurleur.jpg",
+    "descriptionImage": "Illustration accompagnant « L'arbre hurleur » dans sa publication Facebook.",
+    "date": "2026-03-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "duel-contre-un-stylo-fatigue",
+    "titre": "Duel contre un stylo fatigué",
+    "fichier": "textes/duel-contre-un-stylo-fatigue.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-cendre-tiede",
+    "titre": "La cendre tiède",
+    "fichier": "textes/la-cendre-tiede.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Birkhadem",
+    "creditImage": ""
+  },
+  {
+    "id": "je-t-entends-femme",
+    "titre": "Je t’entends, femme",
+    "fichier": "textes/je-t-entends-femme.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "poeme-apotropaique",
+    "titre": "Poème apotropaïque",
+    "fichier": "textes/poeme-apotropaique.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Birkhadem",
+    "creditImage": ""
+  },
+  {
+    "id": "ouvre-moi-les-portes-de-ton-c-ur",
+    "titre": "Ouvre-moi les portes de ton cœur,",
+    "fichier": "textes/ouvre-moi-les-portes-de-ton-c-ur.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "a-toi-tisseuse-d-ombres-et-de-braises",
+    "titre": "À toi, tisseuse d’ombres et de braises,",
+    "fichier": "textes/a-toi-tisseuse-d-ombres-et-de-braises.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/a-toi-tisseuse-d-ombres-et-de-braises.jpg",
+    "descriptionImage": "Illustration accompagnant « À toi, tisseuse d’ombres et de braises, » dans sa publication Facebook.",
+    "date": "2026-03-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires",
+    "titre": "Les vents contraires",
+    "fichier": "textes/les-vents-contraires.txt",
+    "themes": [
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ouverture-d-esprit-n-est-pas-fracture-du-crane",
+    "titre": "Ouverture d’esprit n’est pas fracture du crâne",
+    "fichier": "textes/ouverture-d-esprit-n-est-pas-fracture-du-crane.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "quelle-epoque",
+    "titre": "Quelle époque !",
+    "fichier": "textes/quelle-epoque.txt",
+    "themes": [
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mourir-de-vivre",
+    "titre": "Mourir de vivre",
+    "fichier": "textes/mourir-de-vivre.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-petits-riens",
+    "titre": "Les petits riens",
+    "fichier": "textes/les-petits-riens.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "racines-kabyles-eternelles",
+    "titre": "Racines kabyles éternelles",
+    "fichier": "textes/racines-kabyles-eternelles.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "veille-aux-braises-du-silence",
+    "titre": "Veille aux braises du silence",
+    "fichier": "textes/veille-aux-braises-du-silence.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-reves-oublies",
+    "titre": "Les rêves oubliés",
+    "fichier": "textes/les-reves-oublies.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "naitre-a-contre-vent",
+    "titre": "Naître à contre-vent",
+    "fichier": "textes/naitre-a-contre-vent.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "autant-en-emporte-le-vent",
+    "titre": "Autant en emporte le vent",
+    "fichier": "textes/autant-en-emporte-le-vent.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "insomnie-djurdjurassique",
+    "titre": "Insomnie djurdjurassique",
+    "fichier": "textes/insomnie-djurdjurassique.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-02-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "tempus-fugit",
+    "titre": "Tempus fugit",
+    "fichier": "textes/tempus-fugit.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "soliloque-seme-au-vent",
+    "titre": "Soliloque semé au vent",
+    "fichier": "textes/soliloque-seme-au-vent.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-02-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "d-amour-et-d-eau-fraiche",
+    "titre": "D’amour et d’eau fraîche",
+    "fichier": "textes/d-amour-et-d-eau-fraiche.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-comptabilite-fragile-du-temps",
+    "titre": "La comptabilité fragile du temps",
+    "fichier": "textes/la-comptabilite-fragile-du-temps.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "pourquoi-j-ecris",
+    "titre": "Pourquoi j'écris",
+    "fichier": "textes/pourquoi-j-ecris.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-ou-nait-la-lumiere",
+    "titre": "Là où naît la lumière",
+    "fichier": "textes/la-ou-nait-la-lumiere.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "soliloque-insomniaque",
+    "titre": "Soliloque insomniaque",
+    "fichier": "textes/soliloque-insomniaque.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-mains-vides-du-matin",
+    "titre": "Les mains vides du matin",
+    "fichier": "textes/les-mains-vides-du-matin.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "flamme-patiente",
+    "titre": "Flamme patiente",
+    "fichier": "textes/flamme-patiente.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "manifeste-d-un-humain-debout",
+    "titre": "Manifeste d'un humain debout",
+    "fichier": "textes/manifeste-d-un-humain-debout.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "meditation-existentielle",
+    "titre": "Méditation existentielle",
+    "fichier": "textes/meditation-existentielle.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ivre-de-rever",
+    "titre": "Ivre de rêver",
+    "fichier": "textes/ivre-de-rever.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "etre-ou-ne-pas-etre",
+    "titre": "Être ou ne pas être",
+    "fichier": "textes/etre-ou-ne-pas-etre.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "emerveillement-en-clair-obscur",
+    "titre": "Émerveillement en clair-obscur",
+    "fichier": "textes/emerveillement-en-clair-obscur.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-empreinte-de-la-resilience",
+    "titre": "L’empreinte de la résilience",
+    "fichier": "textes/l-empreinte-de-la-resilience.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "c-ur-en-exil",
+    "titre": "Cœur en exil",
+    "fichier": "textes/c-ur-en-exil.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Noida",
+    "creditImage": ""
+  },
+  {
+    "id": "la-belle-et-la-bete-et-les-blessures-jumelles",
+    "titre": "La belle et la bête et les blessures jumelles",
+    "fichier": "textes/la-belle-et-la-bete-et-les-blessures-jumelles.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-mots-qui-rassemblent",
+    "titre": "Les mots qui rassemblent",
+    "fichier": "textes/les-mots-qui-rassemblent.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "bonjour-le-monde",
+    "titre": "Bonjour le monde,",
+    "fichier": "textes/bonjour-le-monde.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "assets/poemes/facebook/bonjour-le-monde.jpg",
+    "descriptionImage": "Illustration accompagnant « Bonjour le monde, » dans sa publication Facebook.",
+    "date": "2025-12-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "en-cette-nuit",
+    "titre": "En cette nuit",
+    "fichier": "textes/en-cette-nuit.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-la-peau-du-silence",
+    "titre": "Sous la peau du silence",
+    "fichier": "textes/sous-la-peau-du-silence.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "un-monde-a-ecrire",
+    "titre": "Un monde à écrire",
+    "fichier": "textes/un-monde-a-ecrire.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-or-lent-des-montagnes",
+    "titre": "L’or lent des montagnes",
+    "fichier": "textes/l-or-lent-des-montagnes.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-nuit-pour-m-ecouter",
+    "titre": "La nuit pour m’écouter",
+    "fichier": "textes/la-nuit-pour-m-ecouter.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-lumiere-blessee",
+    "titre": "La lumière blessée",
+    "fichier": "textes/la-lumiere-blessee.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "algerie-nous-implorons-le-ciel-pour-ta-guerison-de-cherif-kheddam",
+    "titre": "Algérie, nous implorons le ciel pour ta guérison, de CHERIF KHEDDAM",
+    "fichier": "textes/algerie-nous-implorons-le-ciel-pour-ta-guerison-de-cherif-kheddam.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-10-29",
+    "publie": true,
+    "auteur": "Cherif Kheddam",
+    "lieu": "",
+    "creditImage": ""
+  },
+  {
+    "id": "a-nadyajda-benamar",
+    "titre": "À Nadya Benamar",
+    "fichier": "textes/a-nadyajda-benamar.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/a-nadyajda-benamar.jpg",
+    "descriptionImage": "Illustration accompagnant « À Nadya Benamar » dans sa publication Facebook.",
+    "date": "2025-12-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-ecrit-du-cri",
+    "titre": "L’écrit du cri",
+    "fichier": "textes/l-ecrit-du-cri.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-ecrit-du-c-ur",
+    "titre": "L'écrit du cœur",
+    "fichier": "textes/l-ecrit-du-c-ur.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "laisser-une-trace",
+    "titre": "Laisser une trace",
+    "fichier": "textes/laisser-une-trace.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-pulsation-tetue-du-present",
+    "titre": "La pulsation têtue du présent",
+    "fichier": "textes/la-pulsation-tetue-du-present.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-divagations-d-un-eternel-reveur",
+    "titre": "Les divagations d’un éternel rêveur",
+    "fichier": "textes/les-divagations-d-un-eternel-reveur.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-froid-apprivoise",
+    "titre": "Le froid apprivoisé",
+    "fichier": "textes/le-froid-apprivoise.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "flammes-melees",
+    "titre": "Flammes mêlées",
+    "fichier": "textes/flammes-melees.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "etre-malgre-tout",
+    "titre": "Être malgré tout",
+    "fichier": "textes/etre-malgre-tout.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "c-ur-d-amande",
+    "titre": "Cœur d’amande",
+    "fichier": "textes/c-ur-d-amande.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-illegalite-du-dire",
+    "titre": "L’illégalité du dire",
+    "fichier": "textes/l-illegalite-du-dire.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-blancheur-demeure",
+    "titre": "La blancheur demeure",
+    "fichier": "textes/la-blancheur-demeure.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "laghouat-4-decembre-1852",
+    "titre": "Laghouat — 4 décembre 1852",
+    "fichier": "textes/laghouat-4-decembre-1852.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/facebook/laghouat-4-decembre-1852.jpg",
+    "descriptionImage": "Illustration accompagnant « Laghouat — 4 décembre 1852 » dans sa publication Facebook.",
+    "date": "2025-12-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-voyage-immobile",
+    "titre": "Le voyage immobile",
+    "fichier": "textes/le-voyage-immobile.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "murmures-de-l-entre-deux",
+    "titre": "Murmures de l’entre-deux",
+    "fichier": "textes/murmures-de-l-entre-deux.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-12-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-flamme-qui-hesite",
+    "titre": "La flamme qui hésite",
+    "fichier": "textes/la-flamme-qui-hesite.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-djurdjura",
+    "titre": "Le Djurdjura",
+    "fichier": "textes/le-djurdjura.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/le-djurdjura.jpg",
+    "descriptionImage": "Illustration accompagnant « Le Djurdjura » dans sa publication Facebook.",
+    "date": "2025-11-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "poeme-en-etat-de-gel",
+    "titre": "Poème en état de gel",
+    "fichier": "textes/poeme-en-etat-de-gel.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ecrit-d-ombre",
+    "titre": "Écrit d’ombre",
+    "fichier": "textes/ecrit-d-ombre.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-gue-des-mots-passants",
+    "titre": "Le gué des mots passants",
+    "fichier": "textes/le-gue-des-mots-passants.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-logique-bancale-du-vivant",
+    "titre": "La logique bancale du vivant",
+    "fichier": "textes/la-logique-bancale-du-vivant.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "caresses",
+    "titre": "Caresses",
+    "fichier": "textes/caresses.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "donne-moi",
+    "titre": "Donne-moi",
+    "fichier": "textes/donne-moi.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-vagabond-qui-parlait-aux-etoiles",
+    "titre": "Le vagabond qui parlait aux étoiles",
+    "fichier": "textes/le-vagabond-qui-parlait-aux-etoiles.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/le-vagabond-qui-parlait-aux-etoiles.jpg",
+    "descriptionImage": "Illustration accompagnant « Le vagabond qui parlait aux étoiles » dans sa publication Facebook.",
+    "date": "2025-11-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "conjugaison-amoureuse",
+    "titre": "Conjugaison amoureuse",
+    "fichier": "textes/conjugaison-amoureuse.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-le-chapeau-de-vent-et-d-ombre",
+    "titre": "Sous le chapeau de vent et d’ombre",
+    "fichier": "textes/sous-le-chapeau-de-vent-et-d-ombre.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/sous-le-chapeau-de-vent-et-d-ombre.jpg",
+    "descriptionImage": "Illustration accompagnant « Sous le chapeau de vent et d’ombre » dans sa publication Facebook.",
+    "date": "2025-11-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "electron-libre",
+    "titre": "Électron libre",
+    "fichier": "textes/electron-libre.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ca-ne-rime-a-rien",
+    "titre": "Ça ne rime à rien",
+    "fichier": "textes/ca-ne-rime-a-rien.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "monsieur-l-ane-et-l-ame-perdue",
+    "titre": "Monsieur l’Âne et l’Âme perdue",
+    "fichier": "textes/monsieur-l-ane-et-l-ame-perdue.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/monsieur-l-ane-et-l-ame-perdue.jpg",
+    "descriptionImage": "Illustration accompagnant « Monsieur l’Âne et l’Âme perdue » dans sa publication Facebook.",
+    "date": "2025-11-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-immobile-passage",
+    "titre": "L’immobile passage",
+    "fichier": "textes/l-immobile-passage.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-les-vertiges-a-nadyajda-benamar",
+    "titre": "Sous les vertiges (à Nadya Benamar)",
+    "fichier": "textes/sous-les-vertiges-a-nadyajda-benamar.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "toi-l-amour-que-je-n-ai-jamais-eu",
+    "titre": "Toi, l’amour que je n’ai jamais eu",
+    "fichier": "textes/toi-l-amour-que-je-n-ai-jamais-eu.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-eternite-se-rappelle-de-nous-meme-si-l-infini-ferme-les-yeux",
+    "titre": "L’éternité se rappelle de nous même si l’infini ferme les yeux",
+    "fichier": "textes/l-eternite-se-rappelle-de-nous-meme-si-l-infini-ferme-les-yeux.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "aimer-contre-le-neant",
+    "titre": "Aimer contre le néant",
+    "fichier": "textes/aimer-contre-le-neant.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-les-rides-du-temps-le-poids-du-silence-souffle-des-ages",
+    "titre": "Dans les rides du temps, le poids du silence, souffle des âges",
+    "fichier": "textes/dans-les-rides-du-temps-le-poids-du-silence-souffle-des-ages.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/dans-les-rides-du-temps-le-poids-du-silence-souffle-des-ages.jpg",
+    "descriptionImage": "Illustration accompagnant « Dans les rides du temps, le poids du silence, souffle des âges » dans sa publication Facebook.",
+    "date": "2025-11-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "fort-tizegrarine",
+    "titre": "Fort Tizegrarine",
+    "fichier": "textes/fort-tizegrarine.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/facebook/fort-tizegrarine.jpg",
+    "descriptionImage": "Illustration accompagnant « Fort Tizegrarine » dans sa publication Facebook.",
+    "date": "2025-11-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-conte-du-mot-en-quete-d-un-c-ur",
+    "titre": "Le conte du mot en quête d’un cœur",
+    "fichier": "textes/le-conte-du-mot-en-quete-d-un-c-ur.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "algerie-memoire-vive-flamme-eternelle",
+    "titre": "Algérie, mémoire vive, flamme éternelle",
+    "fichier": "textes/algerie-memoire-vive-flamme-eternelle.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-11-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-oliviers-du-vent",
+    "titre": "Les oliviers du vent",
+    "fichier": "textes/les-oliviers-du-vent.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/les-oliviers-du-vent.jpg",
+    "descriptionImage": "Illustration accompagnant « Les oliviers du vent » dans sa publication Facebook.",
+    "date": "2025-10-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Crédit photo Christiane Contejean"
+  },
+  {
+    "id": "alger-les-murs-qui-se-souviennent",
+    "titre": "Alger, les murs qui se souviennent",
+    "fichier": "textes/alger-les-murs-qui-se-souviennent.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/facebook/alger-les-murs-qui-se-souviennent.jpg",
+    "descriptionImage": "Illustration accompagnant « Alger, les murs qui se souviennent » dans sa publication Facebook.",
+    "date": "2025-10-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-dame-d-etoffe-et-de-henne",
+    "titre": "La dame d'étoffe et de hénné",
+    "fichier": "textes/la-dame-d-etoffe-et-de-henne.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/la-dame-d-etoffe-et-de-henne.jpg",
+    "descriptionImage": "Illustration accompagnant « La dame d'étoffe et de hénné » dans sa publication Facebook.",
+    "date": "2025-10-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "apres-la-pluie",
+    "titre": "Après la pluie",
+    "fichier": "textes/apres-la-pluie.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "arc-en-ciel-sur-laghouat",
+    "titre": "Arc en ciel sur Laghouat",
+    "fichier": "textes/arc-en-ciel-sur-laghouat.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/arc-en-ciel-sur-laghouat.jpg",
+    "descriptionImage": "Illustration accompagnant « Arc en ciel sur Laghouat » dans sa publication Facebook.",
+    "date": "2025-10-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-ecrit-vain-ecrit-main",
+    "titre": "L’écrit vain, écrit main",
+    "fichier": "textes/l-ecrit-vain-ecrit-main.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-ou-tout-commence",
+    "titre": "Là où tout commence",
+    "fichier": "textes/la-ou-tout-commence.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-souffle-du-soir",
+    "titre": "Le souffle du soir",
+    "fichier": "textes/le-souffle-du-soir.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "matin-de-poussiere-et-d-or",
+    "titre": "Matin de poussière et d’or",
+    "fichier": "textes/matin-de-poussiere-et-d-or.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-ou-souffle-le-temps",
+    "titre": "Là où souffle le temps",
+    "fichier": "textes/la-ou-souffle-le-temps.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-joueur-de-rbab",
+    "titre": "Le joueur de Rbab",
+    "fichier": "textes/le-joueur-de-rbab.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/le-joueur-de-rbab.jpg",
+    "descriptionImage": "Illustration accompagnant « Le joueur de Rbab » dans sa publication Facebook.",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mer-de-ciel-les-reves-tiennent-le-ciel",
+    "titre": "Mer de ciel (Les rêves tiennent le ciel)",
+    "fichier": "textes/mer-de-ciel-les-reves-tiennent-le-ciel.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "toi-le-brasier-moi-la-lumiere",
+    "titre": "Toi, le brasier, moi, la lumière",
+    "fichier": "textes/toi-le-brasier-moi-la-lumiere.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-monde-rime",
+    "titre": "Le monde rime",
+    "fichier": "textes/le-monde-rime.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-ane-aux-signes-d-etoiles",
+    "titre": "L’âne aux signes d’étoiles",
+    "fichier": "textes/l-ane-aux-signes-d-etoiles.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/l-ane-aux-signes-d-etoiles.jpg",
+    "descriptionImage": "Illustration accompagnant « L’âne aux signes d’étoiles » dans sa publication Facebook.",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "femme-au-chale-fleuri",
+    "titre": "Femme au châle fleuri",
+    "fichier": "textes/femme-au-chale-fleuri.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/femme-au-chale-fleuri.jpg",
+    "descriptionImage": "Illustration accompagnant « Femme au châle fleuri » dans sa publication Facebook.",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "eclats-de-femme",
+    "titre": "Éclats de femme",
+    "fichier": "textes/eclats-de-femme.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-le-voile-ecarlate",
+    "titre": "Sous le voile écarlate",
+    "fichier": "textes/sous-le-voile-ecarlate.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/sous-le-voile-ecarlate.jpg",
+    "descriptionImage": "Illustration accompagnant « Sous le voile écarlate » dans sa publication Facebook.",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sans-toi-yemma",
+    "titre": "Sans toi, Yemma",
+    "fichier": "textes/sans-toi-yemma.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/facebook/sans-toi-yemma.jpg",
+    "descriptionImage": "Illustration accompagnant « Sans toi, Yemma » dans sa publication Facebook.",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-vie-est-belle",
+    "titre": "La vie est belle",
+    "fichier": "textes/la-vie-est-belle.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "village-de-tadjmout",
+    "titre": "Village de Tadjmout",
+    "fichier": "textes/village-de-tadjmout.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/village-de-tadjmout.jpg",
+    "descriptionImage": "Illustration accompagnant « Village de Tadjmout » dans sa publication Facebook.",
+    "date": "2025-10-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "fragments-de-resistance-fb-231",
+    "titre": "Fragments de résistance",
+    "fichier": "textes/fragments-de-resistance-fb-231.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-mer-au-bout-des-rues",
+    "titre": "La mer au bout des rues",
+    "fichier": "textes/la-mer-au-bout-des-rues.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "assets/poemes/facebook/la-mer-au-bout-des-rues.jpg",
+    "descriptionImage": "Illustration accompagnant « La mer au bout des rues » dans sa publication Facebook.",
+    "date": "2025-10-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-souffle-du-temps",
+    "titre": "Le souffle du temps",
+    "fichier": "textes/le-souffle-du-temps.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ce-qui-reste",
+    "titre": "Ce qui reste",
+    "fichier": "textes/ce-qui-reste.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ivre-de-ferveur",
+    "titre": "Ivre de ferveur",
+    "fichier": "textes/ivre-de-ferveur.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "regardez-nous",
+    "titre": "REGARDEZ-NOUS",
+    "fichier": "textes/regardez-nous.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "assets/poemes/facebook/regardez-nous.jpg",
+    "descriptionImage": "Illustration accompagnant « REGARDEZ-NOUS » dans sa publication Facebook.",
+    "date": "2025-10-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-l-or-des-bois-s-endort-la-plaine",
+    "titre": "Sous l’or des bois s’endort la plaine,",
+    "fichier": "textes/sous-l-or-des-bois-s-endort-la-plaine.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-pain-et-le-vent",
+    "titre": "Le pain et le vent",
+    "fichier": "textes/le-pain-et-le-vent.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "deux-souffles-contraires",
+    "titre": "Deux souffles contraires",
+    "fichier": "textes/deux-souffles-contraires.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/deux-souffles-contraires.jpg",
+    "descriptionImage": "Illustration accompagnant « Deux souffles contraires » dans sa publication Facebook.",
+    "date": "2025-10-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-feu-tranquille",
+    "titre": "Le feu tranquille",
+    "fichier": "textes/le-feu-tranquille.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "nuit-sur-le-djurdjura",
+    "titre": "Nuit sur le Djurdjura",
+    "fichier": "textes/nuit-sur-le-djurdjura.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/nuit-sur-le-djurdjura.jpg",
+    "descriptionImage": "Illustration accompagnant « Nuit sur le Djurdjura » dans sa publication Facebook.",
+    "date": "2025-10-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "au-creux-du-chaos-je-suis-la",
+    "titre": "Au creux du chaos, je suis là",
+    "fichier": "textes/au-creux-du-chaos-je-suis-la.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-souffle-des-champs",
+    "titre": "Le souffle des champs",
+    "fichier": "textes/le-souffle-des-champs.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "a-la-lisiere-du-silence",
+    "titre": "À la lisière du silence",
+    "fichier": "textes/a-la-lisiere-du-silence.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "matin-sur-le-djurdjura",
+    "titre": "Matin sur le Djurdjura",
+    "fichier": "textes/matin-sur-le-djurdjura.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/matin-sur-le-djurdjura.jpg",
+    "descriptionImage": "Illustration accompagnant « Matin sur le Djurdjura » dans sa publication Facebook.",
+    "date": "2025-10-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-feu-des-feuilles",
+    "titre": "Le feu des feuilles",
+    "fichier": "textes/le-feu-des-feuilles.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mes-etats-d-ame",
+    "titre": "Mes états d’âme",
+    "fichier": "textes/mes-etats-d-ame.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "assets/poemes/facebook/mes-etats-d-ame.jpg",
+    "descriptionImage": "Illustration accompagnant « Mes états d’âme » dans sa publication Facebook.",
+    "date": "2025-10-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "ETATS D’AME (2016), peinture par Lefolhub"
+  },
+  {
+    "id": "les-pas-sous-la-pluie",
+    "titre": "Les pas sous la pluie",
+    "fichier": "textes/les-pas-sous-la-pluie.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-la-pluie-des-etoiles-des-ames-se-cherchent-a-l-ombre-des-miracles",
+    "titre": "Sous la pluie des étoiles, des âmes se cherchent à l’ombre des miracles",
+    "fichier": "textes/sous-la-pluie-des-etoiles-des-ames-se-cherchent-a-l-ombre-des-miracles.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "je-marche-dans-la-lumiere-fauve",
+    "titre": "Je marche dans la lumière fauve,",
+    "fichier": "textes/je-marche-dans-la-lumiere-fauve.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "silence-interieur",
+    "titre": "Silence intérieur",
+    "fichier": "textes/silence-interieur.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "assets/poemes/facebook/silence-interieur.jpg",
+    "descriptionImage": "Illustration accompagnant « Silence intérieur » dans sa publication Facebook.",
+    "date": "2025-10-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "jour-de-derive",
+    "titre": "Jour de dérive",
+    "fichier": "textes/jour-de-derive.txt",
+    "themes": [
+      "Beauté du quotidien"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "lettre-d-un-reveur-desabuse",
+    "titre": "Lettre d’un rêveur désabusé",
+    "fichier": "textes/lettre-d-un-reveur-desabuse.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "jour-d-etincelle",
+    "titre": "Jour d'étincelle",
+    "fichier": "textes/jour-d-etincelle.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/jour-d-etincelle.jpg",
+    "descriptionImage": "Illustration accompagnant « Jour d'étincelle » dans sa publication Facebook.",
+    "date": "2025-10-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-femme-tatouee",
+    "titre": "La femme tatouée",
+    "fichier": "textes/la-femme-tatouee.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/la-femme-tatouee.jpg",
+    "descriptionImage": "Illustration accompagnant « La femme tatouée » dans sa publication Facebook.",
+    "date": "2025-10-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "souffle-d-automne",
+    "titre": "Souffle d’automne",
+    "fichier": "textes/souffle-d-automne.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "entre-deux-souffles",
+    "titre": "Entre deux souffles",
+    "fichier": "textes/entre-deux-souffles.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "feuille-sur-ma-main",
+    "titre": "Feuille sur ma main —",
+    "fichier": "textes/feuille-sur-ma-main.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/feuille-sur-ma-main.jpg",
+    "descriptionImage": "Illustration accompagnant « Feuille sur ma main — » dans sa publication Facebook.",
+    "date": "2025-10-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "evocation-05-octobre-1988-l-aube-d-un-combat",
+    "titre": "Évocation 05 Octobre 1988, L’aube d’un combat",
+    "fichier": "textes/evocation-05-octobre-1988-l-aube-d-un-combat.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mes-fantomes-mes-fantasmes",
+    "titre": "Mes fantômes, mes fantasmes",
+    "fichier": "textes/mes-fantomes-mes-fantasmes.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-gardienne-des-racines",
+    "titre": "La gardienne des racines",
+    "fichier": "textes/la-gardienne-des-racines.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/la-gardienne-des-racines.jpg",
+    "descriptionImage": "Illustration accompagnant « La gardienne des racines » dans sa publication Facebook.",
+    "date": "2025-10-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "jouir-souffrir",
+    "titre": "Jouir, souffrir",
+    "fichier": "textes/jouir-souffrir.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/jouir-souffrir.jpg",
+    "descriptionImage": "Illustration accompagnant « Jouir, souffrir » dans sa publication Facebook.",
+    "date": "2025-10-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-epingle-a-nourrice",
+    "titre": "L'épingle à nourrice",
+    "fichier": "textes/l-epingle-a-nourrice.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/l-epingle-a-nourrice.jpg",
+    "descriptionImage": "Illustration accompagnant « L'épingle à nourrice » dans sa publication Facebook.",
+    "date": "2025-10-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "et-puis-apres",
+    "titre": "Et puis après",
+    "fichier": "textes/et-puis-apres.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-10-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-elucubrations-d-un-insomniaque",
+    "titre": "Les élucubrations d’un insomniaque",
+    "fichier": "textes/les-elucubrations-d-un-insomniaque.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "soir-d-automne",
+    "titre": "Soir d’automne",
+    "fichier": "textes/soir-d-automne.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/soir-d-automne.jpg",
+    "descriptionImage": "Illustration accompagnant « Soir d’automne » dans sa publication Facebook.",
+    "date": "2025-09-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "discours-muet-d-un-regard-bavard",
+    "titre": "Discours muet d'un regard bavard",
+    "fichier": "textes/discours-muet-d-un-regard-bavard.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "paroles-de-pierres",
+    "titre": "Paroles de pierres",
+    "fichier": "textes/paroles-de-pierres.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/paroles-de-pierres.jpg",
+    "descriptionImage": "Illustration accompagnant « Paroles de pierres » dans sa publication Facebook.",
+    "date": "2025-09-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-guerres-s-eteignent",
+    "titre": "Les guerres s’éteignent,",
+    "fichier": "textes/les-guerres-s-eteignent.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "souvenir",
+    "titre": "Souvenir",
+    "fichier": "textes/souvenir.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "une-bouteille-a-la-mer",
+    "titre": "Une bouteille à la mer",
+    "fichier": "textes/une-bouteille-a-la-mer.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "miroir-sans-fissure",
+    "titre": "Miroir sans fissure,",
+    "fichier": "textes/miroir-sans-fissure.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/miroir-sans-fissure.jpg",
+    "descriptionImage": "Illustration accompagnant « Miroir sans fissure, » dans sa publication Facebook.",
+    "date": "2025-09-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "un-miroir-brise",
+    "titre": "Un miroir brisé,",
+    "fichier": "textes/un-miroir-brise.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "grand-bien-nous-fasse",
+    "titre": "Grand bien nous fasse !",
+    "fichier": "textes/grand-bien-nous-fasse.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-ombre-du-progres",
+    "titre": "L’ombre du progrès",
+    "fichier": "textes/l-ombre-du-progres.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/l-ombre-du-progres.jpg",
+    "descriptionImage": "Illustration accompagnant « L’ombre du progrès » dans sa publication Facebook.",
+    "date": "2025-09-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "liberte",
+    "titre": "Liberté",
+    "fichier": "textes/liberte.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-le-vieux-figuier",
+    "titre": "Sous le vieux figuier,",
+    "fichier": "textes/sous-le-vieux-figuier.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/sous-le-vieux-figuier.jpg",
+    "descriptionImage": "Illustration accompagnant « Sous le vieux figuier, » dans sa publication Facebook.",
+    "date": "2024-12-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-aube-des-mondes",
+    "titre": "L’aube des mondes",
+    "fichier": "textes/l-aube-des-mondes.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-10-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-danse-des-saisons",
+    "titre": "La Danse des Saisons",
+    "fichier": "textes/la-danse-des-saisons.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-10-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "soleil-levant",
+    "titre": "Soleil Levant",
+    "fichier": "textes/soleil-levant.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/soleil-levant.jpg",
+    "descriptionImage": "Illustration accompagnant « Soleil Levant » dans sa publication Facebook.",
+    "date": "2024-10-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "je-reve-donc-je-suis",
+    "titre": "Je rêve donc je suis",
+    "fichier": "textes/je-reve-donc-je-suis.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-10-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "algerie-passe-present-et-futur",
+    "titre": "Algérie, passé, présent et futur",
+    "fichier": "textes/algerie-passe-present-et-futur.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-10-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "cqfd",
+    "titre": "CQFD",
+    "fichier": "textes/cqfd.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-10-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "a-la-vie-a-la-mort",
+    "titre": "A la vie, à la mort",
+    "fichier": "textes/a-la-vie-a-la-mort.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-10-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-manuscrits-de-vava-ou-sa-vie-en-prose",
+    "titre": "Les manuscrits de Vava ou sa vie en prose",
+    "fichier": "textes/les-manuscrits-de-vava-ou-sa-vie-en-prose.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/les-manuscrits-de-vava-ou-sa-vie-en-prose.jpg",
+    "descriptionImage": "Illustration accompagnant « Les manuscrits de Vava ou sa vie en prose » dans sa publication Facebook.",
+    "date": "2024-11-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "rire-cristallin",
+    "titre": "Rire cristallin,",
+    "fichier": "textes/rire-cristallin.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "pluie-sur-les-galets",
+    "titre": "Pluie sur les galets,",
+    "fichier": "textes/pluie-sur-les-galets.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-le-creux-de-la-nuit-je-m-abandonne",
+    "titre": "Dans le creux de la nuit, je m’abandonne,",
+    "fichier": "textes/dans-le-creux-de-la-nuit-je-m-abandonne.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "au-creux-de-l-hiver",
+    "titre": "Au creux de l’hiver,",
+    "fichier": "textes/au-creux-de-l-hiver.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/au-creux-de-l-hiver.jpg",
+    "descriptionImage": "Illustration accompagnant « Au creux de l’hiver, » dans sa publication Facebook.",
+    "date": "2024-11-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "si-je-pouvais-quitter-ce-monde-arbitraire",
+    "titre": "Si je pouvais quitter ce monde arbitraire,",
+    "fichier": "textes/si-je-pouvais-quitter-ce-monde-arbitraire.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "une-ombre-fugace",
+    "titre": "Une ombre fugace,",
+    "fichier": "textes/une-ombre-fugace.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/facebook/une-ombre-fugace.jpg",
+    "descriptionImage": "Illustration accompagnant « Une ombre fugace, » dans sa publication Facebook.",
+    "date": "2024-11-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-tolerance",
+    "titre": "La tolérance",
+    "fichier": "textes/la-tolerance.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "reves-sous-la-lune",
+    "titre": "Rêves sous la lune,",
+    "fichier": "textes/reves-sous-la-lune.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "avance",
+    "titre": "Avance !",
+    "fichier": "textes/avance.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "bonjour-tristesse",
+    "titre": "Bonjour, tristesse",
+    "fichier": "textes/bonjour-tristesse.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-ciel-rougit-lent",
+    "titre": "Le ciel rougit lent,",
+    "fichier": "textes/le-ciel-rougit-lent.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "pas-a-pas-tu-vois",
+    "titre": "Pas à pas, tu vois,",
+    "fichier": "textes/pas-a-pas-tu-vois.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-soleil-revient",
+    "titre": "Le soleil revient,",
+    "fichier": "textes/le-soleil-revient.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "carpe-diem",
+    "titre": "Carpe diem",
+    "fichier": "textes/carpe-diem.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-chaque-regard",
+    "titre": "Dans chaque regard,",
+    "fichier": "textes/dans-chaque-regard.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/dans-chaque-regard.jpg",
+    "descriptionImage": "Illustration accompagnant « Dans chaque regard, » dans sa publication Facebook.",
+    "date": "2024-11-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ces-mots-la-sont-pour-toi",
+    "titre": "Ces mots-là sont pour toi",
+    "fichier": "textes/ces-mots-la-sont-pour-toi.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-11-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-vieil-olivier",
+    "titre": "Le vieil olivier",
+    "fichier": "textes/le-vieil-olivier.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/le-vieil-olivier.jpg",
+    "descriptionImage": "Illustration accompagnant « Le vieil olivier » dans sa publication Facebook.",
+    "date": "2024-12-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "fleur-d-espoir-fanee",
+    "titre": "Fleur d'espoir fanée,",
+    "fichier": "textes/fleur-d-espoir-fanee.txt",
+    "themes": [
+      "Exil et solidarité"
+    ],
+    "image": "assets/poemes/facebook/fleur-d-espoir-fanee.jpg",
+    "descriptionImage": "Illustration accompagnant « Fleur d'espoir fanée, » dans sa publication Facebook.",
+    "date": "2024-11-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-tes-yeux-si-clairs",
+    "titre": "Dans tes yeux si clairs,",
+    "fichier": "textes/dans-tes-yeux-si-clairs.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-fb-305",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-fb-305.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-rivieres-coulent",
+    "titre": "Les rivières coulent,",
+    "fichier": "textes/les-rivieres-coulent.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/les-rivieres-coulent.jpg",
+    "descriptionImage": "Illustration accompagnant « Les rivières coulent, » dans sa publication Facebook.",
+    "date": "2024-12-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-maitre-des-mots-et-des-c-urs",
+    "titre": "Le maître des mots et des cœurs",
+    "fichier": "textes/le-maitre-des-mots-et-des-c-urs.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/le-maitre-des-mots-et-des-c-urs.jpg",
+    "descriptionImage": "Illustration accompagnant « Le maître des mots et des cœurs » dans sa publication Facebook.",
+    "date": "2024-12-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-ame-des-montagnes",
+    "titre": "L'âme des montagnes",
+    "fichier": "textes/l-ame-des-montagnes.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "qui-es-tu",
+    "titre": "Qui es-tu",
+    "fichier": "textes/qui-es-tu.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "assets/poemes/facebook/qui-es-tu.jpg",
+    "descriptionImage": "Illustration accompagnant « Qui es-tu » dans sa publication Facebook.",
+    "date": "2024-12-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-chaque-regard-fb-310",
+    "titre": "Dans chaque regard,",
+    "fichier": "textes/dans-chaque-regard-fb-310.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "merci-petite",
+    "titre": "Merci, petite",
+    "fichier": "textes/merci-petite.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "entre-ciel-et-mer",
+    "titre": "Entre ciel et mer,",
+    "fichier": "textes/entre-ciel-et-mer.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/entre-ciel-et-mer.jpg",
+    "descriptionImage": "Illustration accompagnant « Entre ciel et mer, » dans sa publication Facebook.",
+    "date": "2024-12-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sommet-qui-m-appelle",
+    "titre": "Sommet qui m'appelle,",
+    "fichier": "textes/sommet-qui-m-appelle.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/sommet-qui-m-appelle.jpg",
+    "descriptionImage": "Illustration accompagnant « Sommet qui m'appelle, » dans sa publication Facebook.",
+    "date": "2024-12-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "cafe-sur-clavier",
+    "titre": "Café sur clavier",
+    "fichier": "textes/cafe-sur-clavier.txt",
+    "themes": [
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/facebook/cafe-sur-clavier.jpg",
+    "descriptionImage": "Illustration accompagnant « Café sur clavier » dans sa publication Facebook.",
+    "date": "2024-12-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "bonne-annee",
+    "titre": "Bonne année !",
+    "fichier": "textes/bonne-annee.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-le-sablier",
+    "titre": "Dans le sablier,",
+    "fichier": "textes/dans-le-sablier.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2024-12-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dites-le-moi",
+    "titre": "Dites-le-moi",
+    "fichier": "textes/dites-le-moi.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-01",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "un-jour-quand-l-orage-s-eteint",
+    "titre": "Un jour, quand l’orage s’éteint,",
+    "fichier": "textes/un-jour-quand-l-orage-s-eteint.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "chercheurs-de-reves-a-la-memoire-des-enfants-des-ouacifs",
+    "titre": "Chercheurs de rêves — À la mémoire des enfants des Ouacifs",
+    "fichier": "textes/chercheurs-de-reves-a-la-memoire-des-enfants-des-ouacifs.txt",
+    "themes": [
+      "Exil et solidarité"
+    ],
+    "image": "assets/poemes/facebook/chercheurs-de-reves-a-la-memoire-des-enfants-des-ouacifs.jpg",
+    "descriptionImage": "Illustration accompagnant « Chercheurs de rêves — À la mémoire des enfants des Ouacifs » dans sa publication Facebook.",
+    "date": "2025-01-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-les-bras-du-temps",
+    "titre": "Dans les bras du temps",
+    "fichier": "textes/dans-les-bras-du-temps.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-03",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "a-vendre",
+    "titre": "À vendre",
+    "fichier": "textes/a-vendre.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-vieil-homme-et-le-mur",
+    "titre": "Le vieil homme et le mur",
+    "fichier": "textes/le-vieil-homme-et-le-mur.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "enfants-de-la-guerre",
+    "titre": "Enfants de la guerre",
+    "fichier": "textes/enfants-de-la-guerre.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/facebook/enfants-de-la-guerre.jpg",
+    "descriptionImage": "Illustration accompagnant « Enfants de la guerre » dans sa publication Facebook.",
+    "date": "2025-01-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "aimons-nous",
+    "titre": "Aimons-nous",
+    "fichier": "textes/aimons-nous.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "fatalite",
+    "titre": "Fatalité",
+    "fichier": "textes/fatalite.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mieux-vaut-etre-respecte-que-craint",
+    "titre": "Mieux vaut être respecté que craint",
+    "fichier": "textes/mieux-vaut-etre-respecte-que-craint.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "po-aime-moi-comme-je-te-po-aime",
+    "titre": "Po-aime moi, comme je te po-aime",
+    "fichier": "textes/po-aime-moi-comme-je-te-po-aime.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-reverie",
+    "titre": "La rêverie",
+    "fichier": "textes/la-reverie.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "assets/poemes/facebook/la-reverie.jpg",
+    "descriptionImage": "Illustration accompagnant « La rêverie » dans sa publication Facebook.",
+    "date": "2025-01-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "yennayer-le-chant-des-ancetres",
+    "titre": "Yennayer Le chant des ancêtres",
+    "fichier": "textes/yennayer-le-chant-des-ancetres.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/yennayer-le-chant-des-ancetres.jpg",
+    "descriptionImage": "Illustration accompagnant « Yennayer Le chant des ancêtres » dans sa publication Facebook.",
+    "date": "2025-01-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "delit-d-ivresse",
+    "titre": "Délit d’ivresse",
+    "fichier": "textes/delit-d-ivresse.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-enfant-veut-la-lune",
+    "titre": "L’enfant veut la lune",
+    "fichier": "textes/l-enfant-veut-la-lune.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "c-est-ca-aimer",
+    "titre": "C'est ça aimer",
+    "fichier": "textes/c-est-ca-aimer.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "des-livres",
+    "titre": "Des livres",
+    "fichier": "textes/des-livres.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/des-livres.jpg",
+    "descriptionImage": "Illustration accompagnant « Des livres » dans sa publication Facebook.",
+    "date": "2025-01-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "tarakna",
+    "titre": "Tarakna",
+    "fichier": "textes/tarakna.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/tarakna.jpg",
+    "descriptionImage": "Illustration accompagnant « Tarakna » dans sa publication Facebook.",
+    "date": "2025-01-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "vieux-de-la-vieille",
+    "titre": "Vieux de la vieille",
+    "fichier": "textes/vieux-de-la-vieille.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/vieux-de-la-vieille.jpg",
+    "descriptionImage": "Illustration accompagnant « Vieux de la vieille » dans sa publication Facebook.",
+    "date": "2025-01-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-afrique-au-faquin",
+    "titre": "L'Afrique au faquin",
+    "fichier": "textes/l-afrique-au-faquin.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-01-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "cauchemar-urbain",
+    "titre": "Cauchemar urbain",
+    "fichier": "textes/cauchemar-urbain.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "assets/poemes/facebook/cauchemar-urbain.jpg",
+    "descriptionImage": "Illustration accompagnant « Cauchemar urbain » dans sa publication Facebook.",
+    "date": "2025-02-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "memento-vivere",
+    "titre": "Memento vivere",
+    "fichier": "textes/memento-vivere.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-02-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "au-coin-du-feu",
+    "titre": "Au coin du feu",
+    "fichier": "textes/au-coin-du-feu.txt",
+    "themes": [
+      "Angoisse et solitude"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-02-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-elephant-du-roi-de-koukou",
+    "titre": "L’éléphant du roi de Koukou",
+    "fichier": "textes/l-elephant-du-roi-de-koukou.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/l-elephant-du-roi-de-koukou.jpg",
+    "descriptionImage": "Illustration accompagnant « L’éléphant du roi de Koukou » dans sa publication Facebook.",
+    "date": "2025-02-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-v-u-du-chacal-yenayas-wuchene",
+    "titre": "Le vœu du chacal — Yenayas wuchene",
+    "fichier": "textes/le-v-u-du-chacal-yenayas-wuchene.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/le-v-u-du-chacal-yenayas-wuchene.jpg",
+    "descriptionImage": "Illustration accompagnant « Le vœu du chacal — Yenayas wuchene » dans sa publication Facebook.",
+    "date": "2025-02-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "la-colonisation-positive",
+    "titre": "La colonisation « positive »",
+    "fichier": "textes/la-colonisation-positive.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-02-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "poing-leve",
+    "titre": "Poing levé",
+    "fichier": "textes/poing-leve.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-02-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ecrit-proscrit",
+    "titre": "Ecrit proscrit",
+    "fichier": "textes/ecrit-proscrit.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-03-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Ouled Fayet",
+    "creditImage": ""
+  },
+  {
+    "id": "joyeux-8-mars-a-toutes-les-femmes",
+    "titre": "Joyeux 8 mars à toutes les femmes !",
+    "fichier": "textes/joyeux-8-mars-a-toutes-les-femmes.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-03-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "dans-l-ombre-douce-d-un-vieux-papier",
+    "titre": "Dans l’ombre douce d’un vieux papier,",
+    "fichier": "textes/dans-l-ombre-douce-d-un-vieux-papier.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-03-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "un-jour-j-ai-connu-l-amour",
+    "titre": "Un jour, j'ai connu l'amour",
+    "fichier": "textes/un-jour-j-ai-connu-l-amour.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/facebook/un-jour-j-ai-connu-l-amour.jpg",
+    "descriptionImage": "Illustration accompagnant « Un jour, j'ai connu l'amour » dans sa publication Facebook.",
+    "date": "2025-06-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "harraga-resquilleurs",
+    "titre": "HARRAGA (Resquilleurs)",
+    "fichier": "textes/harraga-resquilleurs.txt",
+    "themes": [
+      "Exil et solidarité"
+    ],
+    "image": "assets/poemes/facebook/harraga-resquilleurs.jpg",
+    "descriptionImage": "Illustration accompagnant « HARRAGA (Resquilleurs) » dans sa publication Facebook.",
+    "date": "2025-06-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "beaucoup-en-delire",
+    "titre": "Beaucoup en délire",
+    "fichier": "textes/beaucoup-en-delire.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-06-21",
+    "publie": true,
+    "auteur": "Djamel Metref et Nadjoua Bensalem",
+    "lieu": "",
+    "creditImage": ""
+  },
+  {
+    "id": "etre-ou-paraitre",
+    "titre": "Être ou paraître",
+    "fichier": "textes/etre-ou-paraitre.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/etre-ou-paraitre.jpg",
+    "descriptionImage": "Illustration accompagnant « Être ou paraître » dans sa publication Facebook.",
+    "date": "2025-06-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-rebelle",
+    "titre": "Le rebelle",
+    "fichier": "textes/le-rebelle.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "assets/poemes/facebook/le-rebelle.jpg",
+    "descriptionImage": "Illustration accompagnant « Le rebelle » dans sa publication Facebook.",
+    "date": "2025-06-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "une-phrase-resiste",
+    "titre": "Une phrase résiste",
+    "fichier": "textes/une-phrase-resiste.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "assets/poemes/facebook/une-phrase-resiste.jpg",
+    "descriptionImage": "Illustration accompagnant « Une phrase résiste » dans sa publication Facebook.",
+    "date": "2025-06-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "comment-t-appelles-tu",
+    "titre": "Comment t’appelles-tu",
+    "fichier": "textes/comment-t-appelles-tu.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/comment-t-appelles-tu.jpg",
+    "descriptionImage": "Illustration accompagnant « Comment t’appelles-tu » dans sa publication Facebook.",
+    "date": "2025-07-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "libre-penseur",
+    "titre": "Libre Penseur",
+    "fichier": "textes/libre-penseur.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "assets/poemes/facebook/libre-penseur.jpg",
+    "descriptionImage": "Illustration accompagnant « Libre Penseur » dans sa publication Facebook.",
+    "date": "2025-07-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "nostalgie",
+    "titre": "Nostalgie",
+    "fichier": "textes/nostalgie.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-07-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "si",
+    "titre": "Si",
+    "fichier": "textes/si.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-07-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "monologue-d-un-kabyle-en-vadrouille",
+    "titre": "Monologue d'un kabyle en vadrouille",
+    "fichier": "textes/monologue-d-un-kabyle-en-vadrouille.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-07-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "cartographie-des-songes-du-passe-compose-au-futur-anterieur",
+    "titre": "Cartographie des songes Du passé composé au futur antérieur",
+    "fichier": "textes/cartographie-des-songes-du-passe-compose-au-futur-anterieur.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "assets/poemes/facebook/cartographie-des-songes-du-passe-compose-au-futur-anterieur.jpg",
+    "descriptionImage": "Illustration accompagnant « Cartographie des songes Du passé composé au futur antérieur » dans sa publication Facebook.",
+    "date": "2025-07-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-bancs-de-la-liberte",
+    "titre": "Les bancs de la liberté",
+    "fichier": "textes/les-bancs-de-la-liberte.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/les-bancs-de-la-liberte.jpg",
+    "descriptionImage": "Illustration accompagnant « Les bancs de la liberté » dans sa publication Facebook.",
+    "date": "2025-07-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "images": [
+      {
+        "image": "assets/poemes/facebook/les-bancs-de-la-liberte-calais.jpg",
+        "description": "Banc en pierre en forme de livre ouvert à Calais.",
+        "legende": "Les Bancs de la Liberté à Calais"
+      }
+    ]
+  },
+  {
+    "id": "hacene-metref-etoile-d-argent-de-chevalier-de-la-culture",
+    "titre": "Hacène Metref Étoile d'argent de chevalier de la culture",
+    "fichier": "textes/hacene-metref-etoile-d-argent-de-chevalier-de-la-culture.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/hacene-metref-etoile-d-argent-de-chevalier-de-la-culture.jpg",
+    "descriptionImage": "Illustration accompagnant « Hacène Metref Étoile d'argent de chevalier de la culture » dans sa publication Facebook.",
+    "date": "2025-07-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "un-bouquet-en-voix-libre",
+    "titre": "Un bouquet en voix libre",
+    "fichier": "textes/un-bouquet-en-voix-libre.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/un-bouquet-en-voix-libre.jpg",
+    "descriptionImage": "Illustration accompagnant « Un bouquet en voix libre » dans sa publication Facebook.",
+    "date": "2025-08-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-le-n-0-prologue-ni-noir-ni-blanc",
+    "titre": "Les vents contraires — Le n°0 (Prologue) - Ni noir ni blanc",
+    "fichier": "textes/les-vents-contraires-le-n-0-prologue-ni-noir-ni-blanc.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-1-les-deux-destins",
+    "titre": "Les vents contraires — N°1. Les deux destins",
+    "fichier": "textes/les-vents-contraires-n-1-les-deux-destins.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-2-les-c-urs-changeants",
+    "titre": "Les vents contraires — N°2. Les cœurs changeants",
+    "fichier": "textes/les-vents-contraires-n-2-les-c-urs-changeants.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-3-l-age-et-le-temps",
+    "titre": "Les vents contraires — N°3.  L’âge et le temps",
+    "fichier": "textes/les-vents-contraires-n-3-l-age-et-le-temps.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-07",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-4-la-morale-du-vivant",
+    "titre": "Les vents contraires — N°4. La morale du vivant",
+    "fichier": "textes/les-vents-contraires-n-4-la-morale-du-vivant.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ecrire",
+    "titre": "Écrire",
+    "fichier": "textes/ecrire.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/ecrire.jpg",
+    "descriptionImage": "Illustration accompagnant « Écrire » dans sa publication Facebook.",
+    "date": "2025-08-08",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-5-l-amour-et-la-solitude",
+    "titre": "Les vents contraires — N°5. L’amour et la solitude",
+    "fichier": "textes/les-vents-contraires-n-5-l-amour-et-la-solitude.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/facebook/les-vents-contraires-n-5-l-amour-et-la-solitude.jpg",
+    "descriptionImage": "Illustration accompagnant « Les vents contraires — N°5. L’amour et la solitude » dans sa publication Facebook.",
+    "date": "2025-08-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "poesie-therapie",
+    "titre": "Poésie thérapie",
+    "fichier": "textes/poesie-therapie.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-6-la-liberte-et-l-enfermement",
+    "titre": "Les vents contraires — N°6. La liberté et l’enfermement",
+    "fichier": "textes/les-vents-contraires-n-6-la-liberte-et-l-enfermement.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "semeur-de-mots",
+    "titre": "Semeur de mots",
+    "fichier": "textes/semeur-de-mots.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-7-l-espoir-et-le-desespoir",
+    "titre": "Les vents contraires — N°7. L’espoir et le désespoir",
+    "fichier": "textes/les-vents-contraires-n-7-l-espoir-et-le-desespoir.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/les-vents-contraires-n-7-l-espoir-et-le-desespoir.jpg",
+    "descriptionImage": "Illustration accompagnant « Les vents contraires — N°7. L’espoir et le désespoir » dans sa publication Facebook.",
+    "date": "2025-08-11",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-8-la-verite-et-le-mensonge",
+    "titre": "Les vents contraires — N°8. La vérité et le mensonge",
+    "fichier": "textes/les-vents-contraires-n-8-la-verite-et-le-mensonge.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-12",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-9-la-force-et-la-fragilite",
+    "titre": "Les vents contraires — N°9. La force et la fragilité",
+    "fichier": "textes/les-vents-contraires-n-9-la-force-et-la-fragilite.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "conjugaisons-a-l-imparfait",
+    "titre": "Conjugaisons à l'imparfait",
+    "fichier": "textes/conjugaisons-a-l-imparfait.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/conjugaisons-a-l-imparfait.jpg",
+    "descriptionImage": "Illustration accompagnant « Conjugaisons à l'imparfait » dans sa publication Facebook.",
+    "date": "2025-08-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-10-la-guerre-et-la-paix",
+    "titre": "Les vents contraires — N°10. La guerre et la paix",
+    "fichier": "textes/les-vents-contraires-n-10-la-guerre-et-la-paix.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/facebook/les-vents-contraires-n-10-la-guerre-et-la-paix.jpg",
+    "descriptionImage": "Illustration accompagnant « Les vents contraires — N°10. La guerre et la paix » dans sa publication Facebook.",
+    "date": "2025-08-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-11-le-reve-et-la-realite",
+    "titre": "Les vents contraires — N°11. Le rêve et la réalité",
+    "fichier": "textes/les-vents-contraires-n-11-le-reve-et-la-realite.txt",
+    "themes": [
+      "Rêves et imaginaire"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-12-la-justice-et-l-injustice",
+    "titre": "Les vents contraires — N°12. La justice et l’injustice",
+    "fichier": "textes/les-vents-contraires-n-12-la-justice-et-l-injustice.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "je-suis-gaza",
+    "titre": "Je suis Gaza",
+    "fichier": "textes/je-suis-gaza.txt",
+    "themes": [
+      "Histoire et paix"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-13-le-silence-et-le-bruit",
+    "titre": "Les vents contraires — N°13. Le silence et le bruit",
+    "fichier": "textes/les-vents-contraires-n-13-le-silence-et-le-bruit.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-14-la-vie-et-la-mort",
+    "titre": "Les vents contraires — N°14. La vie et la mort",
+    "fichier": "textes/les-vents-contraires-n-14-la-vie-et-la-mort.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/les-vents-contraires-n-14-la-vie-et-la-mort.jpg",
+    "descriptionImage": "Illustration accompagnant « Les vents contraires — N°14. La vie et la mort » dans sa publication Facebook.",
+    "date": "2025-08-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-15-la-peur-et-le-courage",
+    "titre": "Les vents contraires — N°15. La peur et le courage",
+    "fichier": "textes/les-vents-contraires-n-15-la-peur-et-le-courage.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-16-le-destin-et-le-libre-arbitre",
+    "titre": "Les vents contraires — N°16. Le destin et le libre arbitre",
+    "fichier": "textes/les-vents-contraires-n-16-le-destin-et-le-libre-arbitre.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "prends-soin-de-toi",
+    "titre": "Prends soin de toi",
+    "fichier": "textes/prends-soin-de-toi.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-17-l-ombre-et-la-lumiere",
+    "titre": "Les vents contraires — N°17. L’ombre et la lumière",
+    "fichier": "textes/les-vents-contraires-n-17-l-ombre-et-la-lumiere.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-18-le-pouvoir-et-l-humilite",
+    "titre": "Les vents contraires — N°18. Le pouvoir et l’humilité",
+    "fichier": "textes/les-vents-contraires-n-18-le-pouvoir-et-l-humilite.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-19-l-oubli-et-la-memoire",
+    "titre": "Les vents contraires — N°19. L’oubli et la mémoire",
+    "fichier": "textes/les-vents-contraires-n-19-l-oubli-et-la-memoire.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-24",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "sous-les-belles-nuits-etoilees-d-at-yani",
+    "titre": "Sous les belles nuits étoilées d’At Yani",
+    "fichier": "textes/sous-les-belles-nuits-etoilees-d-at-yani.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/sous-les-belles-nuits-etoilees-d-at-yani.jpg",
+    "descriptionImage": "Illustration accompagnant « Sous les belles nuits étoilées d’At Yani » dans sa publication Facebook.",
+    "date": "2025-08-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-20-l-exil-et-la-terre-natale",
+    "titre": "Les vents contraires — N°20. L'exil et la terre natale",
+    "fichier": "textes/les-vents-contraires-n-20-l-exil-et-la-terre-natale.txt",
+    "themes": [
+      "Exil et solidarité"
+    ],
+    "image": "assets/poemes/facebook/les-vents-contraires-n-20-l-exil-et-la-terre-natale.jpg",
+    "descriptionImage": "Illustration accompagnant « Les vents contraires — N°20. L'exil et la terre natale » dans sa publication Facebook.",
+    "date": "2025-08-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-21-le-passe-et-l-avenir",
+    "titre": "Les vents contraires — N°21. Le passé et l’avenir",
+    "fichier": "textes/les-vents-contraires-n-21-le-passe-et-l-avenir.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-silence-des-oiseaux",
+    "titre": "Le silence des oiseaux",
+    "fichier": "textes/le-silence-des-oiseaux.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/facebook/le-silence-des-oiseaux.jpg",
+    "descriptionImage": "Illustration accompagnant « Le silence des oiseaux » dans sa publication Facebook.",
+    "date": "2025-08-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-22-le-pardon-et-la-vengeance",
+    "titre": "Les vents contraires — N°22. Le pardon et la vengeance",
+    "fichier": "textes/les-vents-contraires-n-22-le-pardon-et-la-vengeance.txt",
+    "themes": [
+      "Liens humains"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "feuille-blanche",
+    "titre": "Feuille blanche",
+    "fichier": "textes/feuille-blanche.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/feuille-blanche.jpg",
+    "descriptionImage": "Illustration accompagnant « Feuille blanche » dans sa publication Facebook.",
+    "date": "2025-08-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-23-le-corps-et-l-ame",
+    "titre": "Les vents contraires — N°23. Le corps et l’âme",
+    "fichier": "textes/les-vents-contraires-n-23-le-corps-et-l-ame.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/les-vents-contraires-n-23-le-corps-et-l-ame.jpg",
+    "descriptionImage": "Illustration accompagnant « Les vents contraires — N°23. Le corps et l’âme » dans sa publication Facebook.",
+    "date": "2025-08-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "parce-que-l-amour-est-un-poeme",
+    "titre": "Parce que l’amour est un poème",
+    "fichier": "textes/parce-que-l-amour-est-un-poeme.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-24-la-foi-et-le-doute",
+    "titre": "Les vents contraires — N°24. La foi et le doute",
+    "fichier": "textes/les-vents-contraires-n-24-la-foi-et-le-doute.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "assets/poemes/facebook/les-vents-contraires-n-24-la-foi-et-le-doute.jpg",
+    "descriptionImage": "Illustration accompagnant « Les vents contraires — N°24. La foi et le doute » dans sa publication Facebook.",
+    "date": "2025-08-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-fils-invisibles-des-marionnettistes",
+    "titre": "Les fils invisibles des marionnettistes",
+    "fichier": "textes/les-fils-invisibles-des-marionnettistes.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "les-vents-contraires-n-25-le-manque-et-la-plenitude",
+    "titre": "Les vents contraires — N°25. Le manque et la plénitude",
+    "fichier": "textes/les-vents-contraires-n-25-le-manque-et-la-plenitude.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "parle-moi-d-amour",
+    "titre": "Parle-moi d’amour",
+    "fichier": "textes/parle-moi-d-amour.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-08-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "parle-moi-de-liberte",
+    "titre": "Parle-moi de liberté",
+    "fichier": "textes/parle-moi-de-liberte.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-02",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-c-ur-a-ses-saisons-que-les-saisons-ne-reconnaissent-pas",
+    "titre": "Le cœur a ses saisons, que les saisons ne reconnaissent pas",
+    "fichier": "textes/le-c-ur-a-ses-saisons-que-les-saisons-ne-reconnaissent-pas.txt",
+    "themes": [
+      "Absence et manque"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-09-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "questionnement-sans-fin",
+    "titre": "Questionnement sans fin",
+    "fichier": "textes/questionnement-sans-fin.txt",
+    "themes": [
+      "Temps et existence"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-03-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "ecrit-sans-nom",
+    "titre": "Écrit sans nom",
+    "fichier": "textes/ecrit-sans-nom.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-04-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "entre-reve-et-feu",
+    "titre": "Entre rêve et feu",
+    "fichier": "textes/entre-reve-et-feu.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-04-16",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-pied-suit-la-racine",
+    "titre": "Le pied suit la racine",
+    "fichier": "textes/le-pied-suit-la-racine.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/le-pied-suit-la-racine.jpg",
+    "descriptionImage": "Illustration accompagnant « Le pied suit la racine » dans sa publication Facebook.",
+    "date": "2025-04-30",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mots-pour-maux",
+    "titre": "Mots pour maux",
+    "fichier": "textes/mots-pour-maux.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-05-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mon-songe-est-verite",
+    "titre": "Mon songe est vérité",
+    "fichier": "textes/mon-songe-est-verite.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2025-05-10",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-burnous-kabyle",
+    "titre": "Le burnous kabyle",
+    "fichier": "textes/le-burnous-kabyle.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "assets/poemes/facebook/le-burnous-kabyle.jpg",
+    "descriptionImage": "Un homme en casquette et veste verte auprès d’une personne portant un burnous kabyle blanc à capuche et à franges, dans l’encadrement d’une porte.",
+    "date": "2025-05-14",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "mots-insurges",
+    "titre": "Mots insurgés",
+    "fichier": "textes/mots-insurges.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/mots-insurges.jpg",
+    "descriptionImage": "Illustration accompagnant « Mots insurgés » dans sa publication Facebook.",
+    "date": "2025-05-25",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "eclipse",
+    "titre": "Éclipse",
+    "fichier": "textes/eclipse.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-08-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "l-amour-ce-sdf-reponse-a-djamel-metref",
+    "titre": "L'amour ce SDF(réponse à Djamel Metref)",
+    "fichier": "textes/l-amour-ce-sdf-reponse-a-djamel-metref.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-03-29",
+    "publie": true,
+    "auteur": "Nadjoua Bensalem",
+    "lieu": "",
+    "creditImage": ""
+  },
+  {
+    "id": "le-cri",
+    "titre": "LE CRI",
+    "fichier": "textes/le-cri.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "assets/poemes/facebook/le-cri.jpg",
+    "descriptionImage": "Illustration accompagnant « LE CRI » dans sa publication Facebook.",
+    "date": "2024-10-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "3-17",
+    "titre": "3 : 17",
+    "fichier": "textes/3-17.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/3-17.jpg",
+    "descriptionImage": "Un lampadaire éclaire des arbres et des toits dans la nuit.",
+    "date": "2026-08-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "4-septembre-2",
+    "titre": "4 septembre",
+    "fichier": "textes/4-septembre-2.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/4-septembre-2.jpg",
+    "descriptionImage": "Un homme assis sur une colline brûlée, près d’une pelle et d’une bouteille d’eau.",
+    "date": "",
+    "publie": true,
+    "auteur": "",
+    "lieu": "",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "4-septembre",
+    "titre": "4 septembre ",
+    "fichier": "textes/4-septembre.txt",
+    "themes": [
+      "Nature et écologie"
+    ],
+    "image": "assets/poemes/facebook/4-septembre.jpg",
+    "descriptionImage": "Une route serpente entre les arbres brûlés et les maisons d’une colline.",
+    "date": "",
+    "publie": true,
+    "auteur": "",
+    "lieu": "",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "apres-l-orage",
+    "titre": "Après l’orage ",
+    "fichier": "textes/apres-l-orage.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/apres-l-orage.jpg",
+    "descriptionImage": "Une promenade au bord d’un lac, sous un ciel nuageux, face aux montagnes.",
+    "date": "2026-08-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "apres-la-lumiere",
+    "titre": "Après la lumière ",
+    "fichier": "textes/apres-la-lumiere.txt",
+    "themes": [
+      "Amour et désir",
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/apres-la-lumiere.jpg",
+    "descriptionImage": "Un homme assis sur un bateau regarde la rive au coucher du soleil.",
+    "date": "2026-09-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "coeur-sans-frein",
+    "titre": "Cœur sans frein ",
+    "fichier": "textes/coeur-sans-frein.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/coeur-sans-frein.jpg",
+    "descriptionImage": "Une aile d’avion vue à travers un hublot au soleil couchant.",
+    "date": "2026-09-04",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "en-ligne",
+    "titre": "En ligne",
+    "fichier": "textes/en-ligne.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Vie numérique",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/en-ligne.jpg",
+    "descriptionImage": "Un visiteur photographie les poissons d’un grand aquarium éclairé de bleu.",
+    "date": "2026-08-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "fatna-sous-la-lune-de-ben-kerriou",
+    "titre": "Fatna, sous la lune de Ben Kerriou",
+    "fichier": "textes/fatna-sous-la-lune-de-ben-kerriou.txt",
+    "themes": [
+      "Amour et désir",
+      "Mémoire et transmission",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/facebook/fatna-sous-la-lune-de-ben-kerriou.jpg",
+    "descriptionImage": "Peinture d’une femme voilée de rouge, parée de bijoux, près d’une fenêtre.",
+    "date": "2026-08-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Œuvre © Reche Safia"
+  },
+  {
+    "id": "ivre-amour",
+    "titre": "Ivre amour ",
+    "fichier": "textes/ivre-amour.txt",
+    "themes": [
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/ivre-amour.jpg",
+    "descriptionImage": "Les silhouettes floues des arbres devant un ciel rose et violet au crépuscule.",
+    "date": "2026-08-31",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "je-crie-ton-nom",
+    "titre": "Je crie ton nom",
+    "fichier": "textes/je-crie-ton-nom.txt",
+    "themes": [
+      "Amour et désir",
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/je-crie-ton-nom.jpg",
+    "descriptionImage": "Les lumières d’un village et une lune brillante dans la nuit.",
+    "date": "2026-09-09",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "l-eclat-des-choses-simples",
+    "titre": "L’éclat des choses simples",
+    "fichier": "textes/l-eclat-des-choses-simples.txt",
+    "themes": [
+      "Beauté du quotidien",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/l-eclat-des-choses-simples.jpg",
+    "descriptionImage": "La lune partiellement éclairée dans un ciel noir.",
+    "date": "2026-08-19",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "la-grammaire-de-ton-absence",
+    "titre": "La grammaire de ton absence",
+    "fichier": "textes/la-grammaire-de-ton-absence.txt",
+    "themes": [
+      "Absence et manque",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/la-grammaire-de-ton-absence.jpg",
+    "descriptionImage": "Les ombres d’une fenêtre, d’un ventilateur et d’une chaise sur un mur.",
+    "date": "2026-09-13",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "la-terre-sous-nos-pas",
+    "titre": "La terre sous nos pas",
+    "fichier": "textes/la-terre-sous-nos-pas.txt",
+    "themes": [
+      "Nature et écologie",
+      "Exil et solidarité",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/la-terre-sous-nos-pas.jpg",
+    "descriptionImage": "Des arbres au premier plan devant une chaîne de montagnes ensoleillée.",
+    "date": "2026-08-29",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-bonheur-d-etre-aime",
+    "titre": "Le bonheur d’être aimé",
+    "fichier": "textes/le-bonheur-d-etre-aime.txt",
+    "themes": [
+      "Amour et désir",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/facebook/le-bonheur-d-etre-aime.jpg",
+    "descriptionImage": "Illustration accompagnant « Le bonheur d’être aimé » dans sa publication Facebook.",
+    "date": "2026-08-27",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "le-chemin-vers-l-aube",
+    "titre": "Le chemin vers l'aube",
+    "fichier": "textes/le-chemin-vers-l-aube.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/le-chemin-vers-l-aube.jpg",
+    "descriptionImage": "Le soleil au-dessus des collines et d’un chemin dans un paysage montagneux.",
+    "date": "2026-08-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "les-jours-trop-lourds",
+    "titre": "Les jours trop lourds",
+    "fichier": "textes/les-jours-trop-lourds.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/les-jours-trop-lourds.jpg",
+    "descriptionImage": "Un ciel rose au-dessus des collines, vu depuis une fenêtre dans une pièce sombre.",
+    "date": "2026-08-18",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "nous-nous-souvenons",
+    "titre": "Nous nous souvenons",
+    "fichier": "textes/nous-nous-souvenons.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Histoire et paix"
+    ],
+    "image": "assets/poemes/nous-nous-souvenons.jpg",
+    "descriptionImage": "Affiche d’hommage au congrès de la Soummam du 20 août 1956, avec photographies du site et de ses participants.",
+    "date": "2026-08-20",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "renaissance",
+    "titre": "Renaissance ",
+    "fichier": "textes/renaissance.txt",
+    "themes": [
+      "Amour et désir",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/facebook/renaissance.jpg",
+    "descriptionImage": "Illustration accompagnant « Renaissance  » dans sa publication Facebook.",
+    "date": "2026-09-05",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": ""
+  },
+  {
+    "id": "tout-ce-que-tu-as-commence",
+    "titre": "Tout ce que tu as commencé ",
+    "fichier": "textes/tout-ce-que-tu-as-commence.txt",
+    "themes": [
+      "Amour et désir",
+      "Absence et manque"
+    ],
+    "image": "assets/poemes/tout-ce-que-tu-as-commence.jpg",
+    "descriptionImage": "Des arbustes aux fleurs roses bordent une rivière.",
+    "date": "2026-09-06",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "au-bord-de-l-indicible",
+    "titre": "Au bord de l’indicible",
+    "fichier": "textes/au-bord-de-l-indicible.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/au-bord-de-l-indicible.jpg",
+    "descriptionImage": "Nuages roses au-dessus des montagnes et des toits au coucher du soleil.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-06",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "discours-logorrheique",
+    "titre": "Discours logorrhéique",
+    "fichier": "textes/discours-logorrheique.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Mémoire et transmission",
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/discours-logorrheique.jpg",
+    "descriptionImage": "Un arbre devant une terrasse ouverte sur la mer sous un ciel couvert.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-11",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "fadhma-memoire-de-lumiere",
+    "titre": "Fadhma, mémoire de lumière",
+    "fichier": "textes/fadhma-memoire-de-lumiere.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Exil et solidarité"
+    ],
+    "image": "assets/poemes/fadhma-memoire-de-lumiere.jpg",
+    "descriptionImage": "Portrait peint d’une femme âgée portant un foulard clair, signé Karim Ziane.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-13",
+    "publie": true,
+    "creditImage": "Œuvre © Karim Ziane"
+  },
+  {
+    "id": "l-aurore-du-crepuscule",
+    "titre": "L’aurore du crépuscule",
+    "fichier": "textes/l-aurore-du-crepuscule.txt",
+    "themes": [
+      "Résilience et espoir",
+      "Beauté du quotidien"
+    ],
+    "image": "assets/poemes/l-aurore-du-crepuscule.jpg",
+    "descriptionImage": "Un ciel rose et doré au-dessus des collines, encadré par deux bâtiments sombres.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-12",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "la-nuit-sur-les-montagnes",
+    "titre": "La nuit sur les montagnes",
+    "fichier": "textes/la-nuit-sur-les-montagnes.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Absence et manque",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/la-nuit-sur-les-montagnes.jpg",
+    "descriptionImage": "Un lampadaire éclaire les arbres et les toits dans la nuit.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-11",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-chant-des-cigales",
+    "titre": "Le chant des cigales",
+    "fichier": "textes/le-chant-des-cigales.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Beauté du quotidien"
+    ],
+    "image": "assets/poemes/le-chant-des-cigales.jpg",
+    "descriptionImage": "Un métier à tisser en bois porte un ouvrage aux motifs rouges, noirs et verts.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-01",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-poete-et-sa-muse-s-amusent",
+    "titre": "Le poète et sa muse s’amusent",
+    "fichier": "textes/le-poete-et-sa-muse-s-amusent.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Amour et désir"
+    ],
+    "image": "assets/poemes/le-poete-et-sa-muse-s-amusent.jpg",
+    "descriptionImage": "Un homme et deux ombres sur un chemin ensoleillé au bord de la mer.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-15",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "le-tribunal-de-la-nuit",
+    "titre": "Le tribunal de la nuit",
+    "fichier": "textes/le-tribunal-de-la-nuit.txt",
+    "themes": [
+      "Angoisse et solitude",
+      "Écriture et poésie"
+    ],
+    "image": "assets/poemes/le-tribunal-de-la-nuit.jpg",
+    "descriptionImage": "Les ombres d’une fenêtre et d’objets se dessinent sur un mur violet.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-05",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "l-encre-contre-la-nuit",
+    "titre": "L'encre contre la nuit",
+    "fichier": "textes/l-encre-contre-la-nuit.txt",
+    "themes": [
+      "Écriture et poésie",
+      "Résilience et espoir",
+      "Liens humains"
+    ],
+    "image": "assets/poemes/l-encre-contre-la-nuit.jpg",
+    "descriptionImage": "Un bateau illuminé et des bâtiments se reflètent dans l’eau à la nuit tombée.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-02",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "quand-le-hasard-ressemble-au-destin",
+    "titre": "Quand le hasard ressemble au destin",
+    "fichier": "textes/quand-le-hasard-ressemble-au-destin.txt",
+    "themes": [
+      "Amour et désir",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/quand-le-hasard-ressemble-au-destin.jpg",
+    "descriptionImage": "Des voyageurs regardent un paysage enneigé depuis un autocar.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-10",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "renaitre-pour-t-aimer",
+    "titre": "Renaître pour t’aimer ",
+    "fichier": "textes/renaitre-pour-t-aimer.txt",
+    "themes": [
+      "Amour et désir",
+      "Résilience et espoir"
+    ],
+    "image": "assets/poemes/renaitre-pour-t-aimer.jpg",
+    "descriptionImage": "Un homme portant une écharpe jaune se tient parmi les dunes de sable.",
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "date": "2026-08-14",
+    "publie": true,
+    "creditImage": "Photographie © Djamel Metref"
+  },
+  {
+    "id": "a-ma-fille-ainee-amira",
+    "titre": "À ma fille aînée, Amira",
+    "fichier": "textes/a-ma-fille-ainee-amira.txt",
+    "themes": [
+      "Mémoire et transmission"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02Dv3EHEbL2wSV49oC2wdHuoSdsrzGPU89eBkWCQgrMAwJZZ1BhY9nL5rcZaKDSuB6l"
+  },
+  {
+    "id": "leve-toi-2026-09-22",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-2026-09-22.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02YffPdbzqfjccVKGTaQEhtu5d2qdvvLufGXZQ85RmKVSYiKc2wtLoVN1xWP4455ZHl"
+  },
+  {
+    "id": "la-beaute-de-l-inutile",
+    "titre": "La beauté de l’inutile",
+    "fichier": "textes/la-beaute-de-l-inutile.txt",
+    "themes": [
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-22",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0USNqtQ869EDjT2AdTP3ZaWUAe5g6XmzYyqfTA3PMAikbUkN1PerLti13RtRj3y4ol"
+  },
+  {
+    "id": "victoire-silencieuse",
+    "titre": "Victoire silencieuse",
+    "fichier": "textes/victoire-silencieuse.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0ZKZPVv9hQRcTPSB8v14dqEfRivvhZ1yUwgdpaK5Wk35Wim2dCKVZDT95Lh1WoJMAl"
+  },
+  {
+    "id": "pour-l-amour-d-une-princesse",
+    "titre": "Pour l’amour d’une princesse",
+    "fichier": "textes/pour-l-amour-d-une-princesse.txt",
+    "themes": [
+      "Carnets de voyages",
+      "Amour et désir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-04-15",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Laghouat",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02z1xWttMYU58SikBZdoBSxqS9GQYUkmim8K6Xmt9hgkfADUjUvip9kXgwTYiWkLSPl"
+  },
+  {
+    "id": "carnet-d-un-kabyle-sous-le-ciel-indien",
+    "titre": "Carnet d’un Kabyle sous le ciel indien",
+    "fichier": "textes/carnet-d-un-kabyle-sous-le-ciel-indien.txt",
+    "themes": [
+      "Carnets de voyages"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-01-17",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "Noida",
+    "creditImage": ""
+  },
+  {
+    "id": "leve-toi-liberte-2026-09-26",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-liberte-2026-09-26.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid04aaWyoiPouxwvurBV5uZnGoSoWakHhkTwscTtAna579bNMmFLqNQENMzFBEmFojil"
+  },
+  {
+    "id": "leve-toi-univers-2026-09-26",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-univers-2026-09-26.txt",
+    "themes": [
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-26",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0ELqGpe1qQRzqqyQnWcNuJmoNz3XmY4mRqL3BvgsbcU9QUXF3qXAyKudNMAKpGggdl"
+  },
+  {
+    "id": "le-poete-s-est-cache-pour-mourir",
+    "titre": "Le poète s’est caché pour mourir",
+    "fichier": "textes/le-poete-s-est-cache-pour-mourir.txt",
+    "themes": [
+      "Mémoire et transmission",
+      "Écriture et poésie"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid02XS8bdoCrwmR1ectUAUJrUvmA5397K3eGA2S1ytxvo6odXqWZHZxYgZr8gwv1G3jbl"
+  },
+  {
+    "id": "leve-toi-cages-2026-09-23",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-cages-2026-09-23.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-23",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0iDMsfHxmHuXmd8shcGmjMJPD9ZnbZVxnCZ6L7KSH3mXzrHcDwR7N6Vt6Shg4WfFpl"
+  },
+  {
+    "id": "leve-toi-mensonges-2026-09-21",
+    "titre": "Lève-toi !",
+    "fichier": "textes/leve-toi-mensonges-2026-09-21.txt",
+    "themes": [
+      "Liberté et justice"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-21",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0SN942fzq3cUVszhHDKKJ9FXx7BPEdkEZDaxPBZ9CLrurhiFPPhCsK7Hw7PVzC99Wl"
+  },
+  {
+    "id": "l-obstination-d-etre",
+    "titre": "L'obstination d'être",
+    "fichier": "textes/l-obstination-d-etre.txt",
+    "themes": [
+      "Temps et existence",
+      "Résilience et espoir"
+    ],
+    "image": "",
+    "descriptionImage": "",
+    "date": "2026-09-28",
+    "publie": true,
+    "auteur": "Djamel Metref",
+    "lieu": "At Yenni",
+    "creditImage": "",
+    "sourceFacebook": "https://www.facebook.com/djamel.metref/posts/pfbid0Ysu5TQYZnxvqgom1mSB3D6iAETyNf11fjUew4BtAmrTbozf941ZPrw11HMqBajtSl"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "nom": "Les mots d’un montagnard",
+  "introduction": "",
+  "poemeALHonneur": "",
+  "imageAccueil": "assets/montagnes-accueil.jpg",
+  "descriptionImageAccueil": "Montagnes au crépuscule, au-dessus des arbres et des lumières du village.",
+  "afficherAPropos": true,
+  "creditImageAccueil": "Photographie © Djamel Metref · At Yenni",
+  "imageAPropos": "assets/a-propos.jpg",
+  "descriptionImageAPropos": "Portrait de Djamel Metref devant une porte et un mur aux motifs colorés.",
+  "creditImageAPropos": "Photographie : SIMOGRAPHY"
+}

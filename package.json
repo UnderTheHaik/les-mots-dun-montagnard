@@ -1,0 +1,11 @@
+{
+  "name": "les-mots-dun-montagnard",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/build.mjs --demo && node scripts/serve.mjs",
+    "test": "node scripts/test.mjs"
+  },
+  "engines": { "node": ">=22" }
+}

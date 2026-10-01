@@ -1,0 +1,66 @@
+[
+  {
+    "id": "harraga-deuxieme-prix-milan",
+    "titre": "HARRAGA, deuxième prix à Milan",
+    "sousTitre": "Deuxième place · Environnement et Migrations · Dixième édition",
+    "date": "2025-05-10",
+    "publie": true,
+    "fichier": "textes/harraga-deuxieme-prix-milan.txt",
+    "introduction": "Je l’avais complètement oublié, celui-là ! Le 19 octobre, je m’étais inscrit à la dixième édition — année 2024 — du Prix international de poésie « Sur les traces de Léopold Sédar Senghor », organisé par l’Académie internationale Léopold Sédar Senghor de Milan. J’y avais présenté quatre poèmes dans deux sections.\n\nD’abord retenu parmi les finalistes, mon poème « HARRAGA » a finalement obtenu la deuxième place dans la section « Environnement et Migrations ». Je n’ai malheureusement pas pu assister à la cérémonie du 10 mai 2025 à Milan, mais je tenais à partager ici cette nouvelle.",
+    "sources": [
+      {
+        "titre": "Lire le procès-verbal définitif du jury",
+        "url": "https://premiointernazionalesenghor.com/proces-verbal-definitif-de-la-dixieme-edition-du-prix-international-leopold-sedar-senghor/?lang=fr"
+      },
+      {
+        "titre": "Lire le procès-verbal de sélection des finalistes",
+        "url": "https://premiointernazionalesenghor.com/proces-verbal-de-la-reunion-du-jury-de-la-dixieme-edition-du-prix-international-leopold-sedar-senghor/?lang=fr"
+      }
+    ],
+    "images": [
+      {
+        "image": "assets/actualites/facebook/harraga-deuxieme-prix-milan.jpg",
+        "description": "Document du jury expliquant le deuxième prix attribué à HARRAGA (Resquilleurs).",
+        "legende": "Motivation du jury — HARRAGA, deuxième prix"
+      }
+    ]
+  },
+  {
+    "id": "viree-poetique-vers-milan",
+    "titre": "Virée poétique vers Milan",
+    "fichier": "textes/viree-poetique-vers-milan.txt",
+    "date": "2026-05-09",
+    "publie": true,
+    "images": [
+      {
+        "image": "assets/actualites/milan/remise-du-diplome.jpg",
+        "description": "Deux hommes présentent un diplôme devant le public de la cérémonie.",
+        "legende": "La remise du diplôme"
+      },
+      {
+        "image": "assets/actualites/milan/diplome.jpg",
+        "description": "Diplôme d’honneur à Djamel Metref pour Les exils de la terre, Milan, le 09 mai 2026.",
+        "legende": "Le diplôme d’honneur"
+      },
+      {
+        "image": "assets/actualites/milan/programme.jpg",
+        "description": "Programme de la cérémonie du Prix international de poésie Léopold Sédar Senghor, à Milan le 9 mai 2026.",
+        "legende": "Le programme de la cérémonie"
+      },
+      {
+        "image": "assets/actualites/milan/groupe.jpg",
+        "description": "Un groupe de participants pose avec ses diplômes dans une cour.",
+        "legende": "Les participants réunis"
+      },
+      {
+        "image": "assets/actualites/milan/lecture.jpg",
+        "description": "Un homme lit un texte devant le public assis dans la salle.",
+        "legende": "Un moment de lecture"
+      }
+    ],
+    "sousTitre": "Mention honorable pour « Les exils de la terre »",
+    "introduction": "Le 9 mai 2026, à Milan, j’ai reçu une mention honorable pour mon poème « Les exils de la terre », dans la section « Environnement et migrations » du Prix international de poésie « Sur les traces de Léopold Sédar Senghor ». Je partage ici quelques images de cette virée poétique, mon diplôme d’honneur et le procès-verbal du jury.",
+    "resume": "Le 9 mai 2026, à Milan, Djamel Metref a participé au Prix international de poésie « Sur les traces de Léopold Sédar Senghor » avec son poème « Les exils de la terre ». Présenté dans la section « Environnement et migrations », le poème a reçu une mention honorable. Un diplôme d’honneur lui a été remis lors de la cérémonie.",
+    "documentComplet": true
+  }
+]
