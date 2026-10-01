@@ -43,6 +43,11 @@ console.log('Vérifié : fidélité du texte, pages statiques, liens relatifs, s
 
 const {detectSignature}=await import('./detect.mjs');
 const {selectPoems}=await import('../assets/catalogue.js');
+const placeVariants=[{id:'at',titre:'A',lieu:'At Yenni',themes:[]},{id:'ath',titre:'B',lieu:'Ath Yenni',themes:[]}];
+assert.equal(selectPoems(placeVariants,new URLSearchParams('lieu=At+Yenni')).length,2,'Les variantes du lieu doivent partager le même filtre.');
+assert.equal(selectPoems(placeVariants,new URLSearchParams('lieu=Ath+Yenni')).length,2,'Les anciens liens de filtre restent valides.');
+const archiveHTML=fs.readFileSync(path.join(root,'public/poemes.html'),'utf8');
+assert.ok(archiveHTML.includes('archive-filters')&&archiveHTML.includes('aria-current="page"'),'Filtres repliables et page actuelle accessibles.');
 assert.deepEqual(detectSignature('Titre\n\nDjamel Metref \nAt Yenni le 20 Août 2026\n\n(20 Août 1956)'),{auteur:'Djamel Metref',lieu:'At Yenni',date:'2026-08-20'});
 assert.equal(detectSignature('4 septembre\nTexte sans signature').date,'');
 assert.equal(detectSignature('Auteur Exemple\nParis le 31 février 2026').date,'');
